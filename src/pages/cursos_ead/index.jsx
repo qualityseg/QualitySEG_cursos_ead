@@ -46,7 +46,7 @@ export default function Tratamentos() {
             <p>
             O curso aborda como garantir uma gestão de qualidade por meio da metodologia 5S. Um método rápido, econômico, eficaz e mundialmente utilizado em organizações. Neste curso, o aluno será capacitado a aplicar a metodologia dentro da empresa onde atua e no dia a dia da sua vida.
             </p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center>
           </div>
@@ -68,7 +68,7 @@ export default function Tratamentos() {
             Este curso tem como finalidade apresentar conceitos básicos da Análise de Riscos, assim como as metodologias existentes e as etapas de execução para sua aplicação.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -90,7 +90,7 @@ export default function Tratamentos() {
             Capacitar o aluno na realização de ações emergenciais em caso de acidentes industriais ou domésticos. Embora o conteúdo do curso esteja aberto a todos os interessados em ingressar nesta área, alunos com experiência anterior em áreas afins terão melhor aproveitamento devido à sua realidade profissional.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -113,7 +113,7 @@ export default function Tratamentos() {
             Capacitar o aluno na realização de ações emergenciais em caso de acidentes industriais ou domésticos. Embora o conteúdo do curso esteja aberto a todos os interessados em ingressar nesta área, alunos com experiência anterior em áreas afins terão melhor aproveitamento devido à sua realidade profissional.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -136,7 +136,7 @@ export default function Tratamentos() {
             Este curso tem como objetivos torná-lo apto a realizar a avaliação geral do paciente; diferenciar Avaliação Dirigida para trauma de Avaliação dirigida para emergência médica; aferir sinais vitais.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -157,7 +157,7 @@ export default function Tratamentos() {
             Este curso têm como objetivo capacitar os motoristas profissionais para a condução de veículos de forma preventiva, evitar comportamentos inadequado durante a condução e evitar acidentes de trânsito.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -178,7 +178,7 @@ export default function Tratamentos() {
             Este curso têm como objetivo capacitar os motoristas profissionais para a condução de veículos de forma preventiva, evitar comportamentos inadequado durante a condução e evitar acidentes de trânsito.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -199,7 +199,7 @@ export default function Tratamentos() {
             O curso de Formação de Brigada de Incêndios Avançado é indicado às indústrias que desejam preparar seus colaboradores para atuarem em suas brigadas internas e equipes de CIPA.O curso aborda conteúdos relevantes para sua equipe fazer a diferença preservando vidas.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -220,7 +220,7 @@ export default function Tratamentos() {
             O curso de Formação de Brigada de Incêndios Avançado Reciclagem é indicado às indústrias que desejam preparar seus colaboradores para atuarem em suas brigadas internas e equipes de CIPA.O curso aborda conteúdos relevantes para sua equipe fazer a diferença preservando vidas.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -241,7 +241,7 @@ export default function Tratamentos() {
             O curso de Formação de Brigada de Incêndios Básico é indicado às indústrias que desejam preparar seus colaboradores para atuarem em suas brigadas internas e equipes de CIPA.O curso aborda conteúdos relevantes para sua equipe fazer a diferença preservando vidas.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -264,7 +264,7 @@ export default function Tratamentos() {
             O curso aborda conteúdos relevantes para sua equipe fazer a diferença preservando vidas
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -299,7 +299,7 @@ export default function Tratamentos() {
             O curso aborda conteúdos relevantes para sua equipe fazer a diferença preservando vidas.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -320,7 +320,7 @@ export default function Tratamentos() {
             O curso aborda conteúdos relevantes para sua equipe fazer a diferença preservando vidas.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -339,7 +339,7 @@ export default function Tratamentos() {
             O curso é indicado às indústrias, hotéis, comércios, varejos e empresas em geral que desejam preparar seus colaboradores para atuarem em suas brigadas internas e equipes de CIPA. O curso aborda conteúdos relevantes para sua equipe fazer a diferença preservando vidas e  resguardar patrimônio.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -358,7 +358,7 @@ export default function Tratamentos() {
             O curso é indicado às indústrias, hotéis, comércios, varejos e empresas em geral que desejam preparar seus colaboradores para atuarem em suas brigadas internas e equipes de CIPA. O curso aborda conteúdos relevantes para sua equipe fazer a diferença preservando vidas e  resguardar patrimônio.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -377,7 +377,7 @@ export default function Tratamentos() {
             O curso é indicado às indústrias, hotéis, comércios, varejos e empresas em geral que desejam preparar seus colaboradores para atuarem em suas brigadas internas e equipes de CIPA. O curso aborda conteúdos relevantes para sua equipe fazer a diferença preservando vidas e  resguardar patrimônio.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -396,7 +396,7 @@ export default function Tratamentos() {
             O curso é indicado às indústrias, hotéis, comércios, varejos e empresas em geral que desejam preparar seus colaboradores para atuarem em suas brigadas internas e equipes de CIPA. O curso aborda conteúdos relevantes para sua equipe fazer a diferença preservando vidas e  resguardar patrimônio.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -415,7 +415,7 @@ export default function Tratamentos() {
             O curso é indicado às indústrias, hotéis, comércios, varejos e empresas em geral que desejam preparar seus colaboradores para atuarem em suas brigadas internas e equipes de CIPA. O curso aborda conteúdos relevantes para sua equipe fazer a diferença preservando vidas e  resguardar patrimônio.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -434,7 +434,7 @@ export default function Tratamentos() {
             O curso é indicado às indústrias, hotéis, comércios, varejos e empresas em geral que desejam preparar seus colaboradores para atuarem em suas brigadas internas e equipes de CIPA. O curso aborda conteúdos relevantes para sua equipe fazer a diferença preservando vidas e  resguardar patrimônio.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -451,7 +451,7 @@ export default function Tratamentos() {
           <div className={styles.description}>
           
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -476,7 +476,7 @@ export default function Tratamentos() {
             Cumprir as exigências legais da LGPD. 
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -495,7 +495,7 @@ export default function Tratamentos() {
             Este treinamento tem como objetivo capacitar os colaboradores para identificar e utilizar dispositivos de bloqueio para energias perigosas garantindo a manutenção segura e eficiente de equipamentos.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -514,7 +514,7 @@ export default function Tratamentos() {
             Este curso tem como objetivos: identificar e localizar os órgãos no corpo humano; conhecer os sistemas corporais; reportar lesões utilizando linguagem correta.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -535,7 +535,7 @@ export default function Tratamentos() {
             Desenvolvido em parceria com uma sólida empresa de engenharia elétrica e automação industrial - a GreyLogix, garantimos um material completo e atualizado, além de tutores altamente qualificados e com experiência prática. Uma solução inovadora para certificação profissional com uma metodologia que facilita e potencializa o processo de aprendizagem, gerando economia de tempo e dinheiro.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -554,7 +554,7 @@ export default function Tratamentos() {
             O curso aborda os aspectos gerais da NR1. Ao final deste treinamento você deverá ser capaz de identificar onde as NRs se aplicam e quem são os responsáveis pelo seu cumprimento.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -575,7 +575,7 @@ export default function Tratamentos() {
             Desenvolvido em parceria com uma sólida empresa de engenharia elétrica e automação industrial - a GreyLogix, garantimos um material completo e atualizado, além de tutores altamente qualificados e com experiência prática. Uma solução inovadora para certificação profissional com uma metodologia que facilita e potencializa o processo de aprendizagem, gerando economia de tempo e dinheiro.
                         </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -594,7 +594,7 @@ export default function Tratamentos() {
             Desenvolvido em parceria com uma sólida empresa de engenharia elétrica e automação industrial - a GreyLogix, garantimos um material completo e atualizado, além de tutores altamente qualificados e com experiência prática. Uma solução inovadora para certificação profissional com uma metodologia que facilita e potencializa o processo de aprendizagem, gerando economia de tempo e dinheiro.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -613,7 +613,7 @@ export default function Tratamentos() {
             Desenvolvido em parceria com uma sólida empresa de engenharia elétrica e automação industrial - a GreyLogix, garantimos um material completo e atualizado, além de tutores altamente qualificados e com experiência prática. Uma solução inovadora para certificação profissional com uma metodologia que facilita e potencializa o processo de aprendizagem, gerando economia de tempo e dinheiro.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -633,7 +633,7 @@ export default function Tratamentos() {
  
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -652,7 +652,7 @@ export default function Tratamentos() {
             Este treinamento tem como finalidade apresentar conceitos básicos de segurança nos processos envolvendo levantamento, transporte e descargas de forma manual ou com uso de máquinas/equipamentos e conscientizar os trabalhadores sobre os riscos existentes na operação, assim como a importância e necessidade de atender às normas técnicas de segurança.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -671,7 +671,7 @@ export default function Tratamentos() {
             Este treinamento tem como finalidade apresentar conceitos básicos de segurança de máquinas e conscientizar os trabalhadores sobre os riscos existentes na operação e manuseio dos equipamentos, assim como a importância e necessidade de atender às normas técnicas de segurança.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -690,7 +690,7 @@ export default function Tratamentos() {
             Este treinamento tem como finalidade apresentar conceitos básicos de segurança de máquinas e conscientizar os trabalhadores sobre os riscos existentes na operação e manuseio dos equipamentos, assim como a importância e necessidade de atender às normas técnicas de segurança.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -709,7 +709,7 @@ export default function Tratamentos() {
             Este treinamento tem como objetivo capacitar e aperfeiçoar o profissional que atua na operação e controle de caldeiras, de acordo com a norma regulamentadora NR-13, visando práticas seguras de operação
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -728,7 +728,7 @@ export default function Tratamentos() {
             Este treinamento tem como objetivo capacitar e aperfeiçoar o profissional que atua na operação e controle de caldeiras, de acordo com a norma regulamentadora NR-13, visando práticas seguras de operação.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -748,7 +748,7 @@ export default function Tratamentos() {
             Lembrando que os vasos de pressão só podem ser operados por profissionais que possuem Treinamento de Segurança na Operação de Unidades de Processo (Vasos de Pressão)
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -768,7 +768,7 @@ export default function Tratamentos() {
             Lembrando que os vasos de pressão só podem ser operados por profissionais que possuem Treinamento de Segurança na Operação de Unidades de Processos.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -792,7 +792,7 @@ export default function Tratamentos() {
             Promover discussões sobre o tema: Ergonomia.
                         </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -816,7 +816,7 @@ export default function Tratamentos() {
             Promover discussões sobre o tema: Ergonomia.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -843,7 +843,7 @@ export default function Tratamentos() {
             Promover discussões sobre o tema: Ergonomia.
                         </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -864,7 +864,7 @@ export default function Tratamentos() {
             Verificar se um posto de trabalho oferece condições ergonômicas adequadas ao teleatendimento;
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -885,7 +885,7 @@ export default function Tratamentos() {
             Para a capacitação básica em segurança do trabalho: I. as condições e meio ambiente de trabalho; II. os riscos inerentes às atividades desenvolvidas; III. os equipamentos e proteção coletiva existentes no canteiro de obras; IV. o uso adequado dos equipamentos de proteção individual; V. o PGR do canteiro de obras.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -906,7 +906,7 @@ export default function Tratamentos() {
             O curso pode ser realizado no formato EAD, Semipresencial ou à Distância. Dispõe de uma unidade de ensino totalmente interativa, desenvolvida em computação gráfica e com conteúdo acessível para todos os níveis profissionais. Possui exercícios, fórum e prova de suficiência para emissão de certificado. O aluno conta com apoio e orientação de um tutor-especialista durante todo o curso.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -924,7 +924,7 @@ export default function Tratamentos() {
             O curso aborda as exigências legais contida na Norma Regulamentadora n°20 os processos envolendo inflamáveis e combustíveis. Ao final deste treinamento você deverá ser capaz de executar corretamente os processos rotineiros de forma segura e responsável.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -945,7 +945,7 @@ export default function Tratamentos() {
  
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -964,7 +964,7 @@ export default function Tratamentos() {
             O curso aborda as exigências legais contida na Norma Regulamentadora n°20 os processos envolendo inflamáveis e combustíveis. Ao final deste treinamento você deverá ser capaz de executar corretamente os processos rotineiros de forma segura e responsável.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -983,7 +983,7 @@ export default function Tratamentos() {
             O curso aborda as exigências legais contida na Norma Regulamentadora n°20 os processos envolendo inflamáveis e combustíveis. Ao final deste treinamento você deverá ser capaz de executar corretamente os processos rotineiros de forma segura e responsável.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1002,7 +1002,7 @@ export default function Tratamentos() {
             O curso aborda as exigências legais contida na Norma Regulamentadora n°20 os processos envolvendo inflamáveis e combustíveis. Ao final deste treinamento você deverá ser capaz de executar corretamente os processos rotineiros de forma segura e responsável.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1021,7 +1021,7 @@ export default function Tratamentos() {
             O curso aborda as exigências legais contida na Norma Regulamentadora n°20 os processos envolvendo inflamáveis e combustíveis. Ao final deste treinamento você deverá ser capaz de executar corretamente os processos rotineiros de forma segura e responsável.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1042,7 +1042,7 @@ export default function Tratamentos() {
             os processos rotineiros de forma segura e responsável.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1063,7 +1063,7 @@ export default function Tratamentos() {
             os processos rotineiros de forma segura e responsável.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1084,7 +1084,7 @@ export default function Tratamentos() {
             O aluno terá conhecimento sobre a norma, conhecerá metodologias de análise de risco, permissão de trabalho e receberá orientação dos procedimentos a serem seguidos em situações de emergência relacionadas à inflamáveis e combustíveis.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1103,7 +1103,7 @@ export default function Tratamentos() {
             O aluno terá conhecimento sobre a norma, conhecerá metodologias de análise de risco, permissão de trabalho e receberá orientação dos procedimentos a serem seguidos em emergências relacionadas à inflamáveis e combustíveis.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1122,7 +1122,7 @@ export default function Tratamentos() {
             O curso aborda as exigências legais contida na Norma Regulamentadora n°20 os processos envolendo inflamáveis e combustíveis. Ao final deste treinamento você deverá ser capaz de executar corretamente os processos rotineiros de forma segura e responsável.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1141,7 +1141,7 @@ export default function Tratamentos() {
             O curso aborda as exigências legais contida na Norma Regulamentadora n°20 os processos envolendo inflamáveis e combustíveis. Ao final deste treinamento você deverá ser capaz de executar corretamente os processos rotineiros de forma segura e responsável.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1160,7 +1160,7 @@ export default function Tratamentos() {
             O curso aborda as exigências legais contida na Norma Regulamentadora n°20 os processos envolendo inflamáveis e combustíveis. Ao final deste treinamento você deverá ser capaz de executar corretamente os processos rotineiros de forma segura e responsável.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1179,7 +1179,7 @@ export default function Tratamentos() {
             O curso aborda as exigências legais contida na Norma Regulamentadora n°20 os processos envolvendo inflamáveis e combustíveis. Ao final deste treinamento você deverá ser capaz de executar corretamente os processos rotineiros de forma segura e responsável.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1198,7 +1198,7 @@ export default function Tratamentos() {
             O curso aborda as exigências legais contida na Norma Regulamentadora n°20 os processos envolvendo inflamáveis e combustíveis. Ao final deste treinamento você deverá ser capaz de executar corretamente os processos rotineiros de forma segura e responsável.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1217,7 +1217,7 @@ export default function Tratamentos() {
             O curso aborda as exigências legais contida na Norma Regulamentadora n°20 os processos envolvendo inflamáveis e combustíveis. Ao final deste treinamento você deverá ser capaz de executar corretamente os processos rotineiros de forma segura e responsável.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1236,7 +1236,7 @@ export default function Tratamentos() {
             Capacitar os profissionais de diferentes especialidades para realizarem atividades de trabalho em áreas de mineração, conscientizando-os sobre os riscos inerentes a estes locais para que respeitem as boas práticas relacionadas a saúde e segurança dos trabalhadores.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1255,7 +1255,7 @@ export default function Tratamentos() {
             O objetivo geral deste curso é reconhecer o conteúdo teórico da Norma Regulamentadora 26, que aborda a Rotulagem de Produtos Químicos e as Sinalizações de Segurança, e compreender como aplicar tais conhecimentos em seu ambiente profissional, de maneira a identificar situações de risco e perigo, prevenir acidentes e saber agir em situações de emergência.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1274,7 +1274,7 @@ export default function Tratamentos() {
             Capacitar e orientar empresários e profissionais que atuam na área de saúde sobre os riscos aos quais são expostos na realização das suas tarefas, para que possam trabalhar em segurança e adotar medidas de prevenção reduzindo o risco de acidentes e adoecimento aos profissionais que atuam na área da saúde.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1293,7 +1293,7 @@ export default function Tratamentos() {
             O curso CIPATR aborda os requisitos de treinamentos previstos na norma regulamentadora NR5 e NR31, provendo conhecimentos pertinentes a atuação da comissão e sua organização; além de abordar boas práticas para a prevenção de acidentes; recomendações para desenvolver e manter ambientes saudáveis e seguros; boas práticas de saúde ocupacional e medidas para atuar em casos emergências.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1312,7 +1312,7 @@ export default function Tratamentos() {
             O curso aborda as exigências legais contida na Norma Regulamentadora n°33, assim como capacitar os profissionais da área a prevenção de acidentes, procedimentos e medidas de proteção em espaços confinados, de acordo com a NBR 14787, que estabelece os requisitos mínimos para proteção dos trabalhadores e do local de trabalho, bem como os riscos de entrada em espaços confinados.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1331,7 +1331,7 @@ export default function Tratamentos() {
             O curso aborda as exigências legais contida na Norma Regulamentadora n°33, assim como capacitar os profissionais da área a prevenção de acidentes, procedimentos e medidas de proteção em espaços confinados, de acordo com a NBR 14787, que estabelece os requisitos mínimos para proteção dos trabalhadores e do local de trabalho, bem como os riscos de entrada em espaços confinados.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1350,7 +1350,7 @@ export default function Tratamentos() {
             O curso aborda as exigências legais contida na Norma Regulamentadora n°33, assim como os processos e trabalhos envolvendo espaços confinados. Ao final deste treinamento você deverá ser capaz de executar corretamente as atividades rotineiros de forma segura e responsável.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1369,7 +1369,7 @@ export default function Tratamentos() {
             O curso aborda as exigências legais contida na Norma Regulamentadora n°33, assim como os processos e trabalhos envolvendo espaços confinados. Ao final deste treinamento você deverá ser capaz de executar corretamente as atividades rotineiros de forma segura e responsável.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1388,7 +1388,7 @@ export default function Tratamentos() {
             Capacitar os trabalhadores no curso básico de segurança para trabalhos a quente para o cumprimento da Norma Regulamentadora nº 34
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1407,7 +1407,7 @@ export default function Tratamentos() {
             Um curso que aborda as principais especificações relacionadas ao trabalho em altura. Está em conformidade a Norma Regulamentadora – NR 35 e possui certificado válido em todo Brasil – portaria 008/02 da Secretaria de Estado da Educação e do Desporto de Santa Catarina. Neste curso, o aluno será capacitado para atuar com segurança no trabalho em altura correspondente à sua função.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1426,7 +1426,7 @@ export default function Tratamentos() {
             Um curso que aborda as principais especificações relacionadas ao trabalho em altura. Está em conformidade a Norma Regulamentadora – NR 35 e possui certificado válido em todo Brasil – portaria 008/02 da Secretaria de Estado da Educação e do Desporto de Santa Catarina. Neste curso, o aluno será capacitado para atuar com segurança no trabalho em altura correspondente à sua função.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1445,7 +1445,7 @@ export default function Tratamentos() {
             O curso CIPA aborda os requisitos de treinamentos previstos na norma regulamentadora NR-5, provendo conhecimentos pertinentes a atuação da comissão e sua organização; além de abordar boas práticas para a prevenção de acidentes; recomendações para desenvolver e manter ambientes saudáveis e seguros; boas práticas de saúde ocupacional e medidas para atuar em casos emergências.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1464,7 +1464,7 @@ export default function Tratamentos() {
             O curso CIPA aborda os requisitos de treinamentos previstos na norma regulamentadora NR-5, provendo conhecimentos pertinentes a atuação da comissão e sua organização; além de abordar boas práticas para a prevenção de acidentes; recomendações para desenvolver e manter ambientes saudáveis e seguros; boas práticas de saúde ocupacional e medidas para atuar em casos emergências.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1483,7 +1483,7 @@ export default function Tratamentos() {
             O curso CIPA aborda os requisitos de treinamentos previstos na norma regulamentadora NR-5, provendo conhecimentos pertinentes a atuação da comissão e sua organização; além de abordar boas práticas para a prevenção de acidentes; recomendações para desenvolver e manter ambientes saudáveis e seguros; boas práticas de saúde ocupacional e medidas para atuar em casos emergências.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1502,7 +1502,7 @@ export default function Tratamentos() {
             O curso CIPA aborda os requisitos de treinamentos previstos na norma regulamentadora NR-5, provendo conhecimentos pertinentes a atuação da comissão e sua organização; além de abordar boas práticas para a prevenção de acidentes; recomendações para desenvolver e manter ambientes saudáveis e seguros; boas práticas de saúde ocupacional e medidas para atuar em casos emergências.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1523,7 +1523,7 @@ export default function Tratamentos() {
  
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1542,7 +1542,7 @@ export default function Tratamentos() {
             O curso aborda as exigências legais contida na Norma Regulamentadora n°33, assim como os processos e trabalhos envolvendo espaços confinados. Ao final deste treinamento você deverá ser capaz de executar corretamente as atividades rotineiros de forma segura e responsável.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1561,7 +1561,7 @@ export default function Tratamentos() {
             O curso CIPA aborda os requisitos de treinamentos previstos na norma regulamentadora NR-5, provendo conhecimentos pertinentes a atuação da comissão e sua organização; além de abordar boas práticas para a prevenção de acidentes; recomendações para desenvolver e manter ambientes saudáveis e seguros; boas práticas de saúde ocupacional e medidas para atuar em casos emergências.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1580,7 +1580,7 @@ export default function Tratamentos() {
             O curso CIPA aborda os requisitos de treinamentos previstos na norma regulamentadora NR-5, provendo conhecimentos pertinentes a atuação da comissão e sua organização; além de abordar boas práticas para a prevenção de acidentes; recomendações para desenvolver e manter ambientes saudáveis e seguros; boas práticas de saúde ocupacional e medidas para atuar em casos emergências.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1599,7 +1599,7 @@ export default function Tratamentos() {
             É um curso sobre o uso dos Equipamentos de Proteção Individual (EPIs) em conformidade com a Norma Regulamentadora – NR 6. Certificado válido em todo Brasil – portaria 008/02 da Secretaria de Estado da Educação e do Desporto de Santa Catarina. Neste curso, o aluno será capacitado sobre a importância desses equipamentos e como utilizá-los.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1620,7 +1620,7 @@ export default function Tratamentos() {
             repetir os mesmos procedimentos demonstrados pelo instrutor.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1639,7 +1639,7 @@ export default function Tratamentos() {
             O curso de Prevenção e Combate à COVID-19 tem como objetivo prevenir os trabalhadores contra a contaminação da COVID-19 dentro do ambiente profissional e apresentar as informações necessárias caso seja necessário realizar o isolamento domiciliar.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1658,7 +1658,7 @@ export default function Tratamentos() {
             O treinamento de Prevenção e Proteção Contra Incêndios (PPCI) é parte do conteúdo de Formação de Brigada de Incêndio/Emergência. O treinamento tem como objetivo a instrução teórica à prevenção e proteção contra incêndios.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1677,7 +1677,7 @@ export default function Tratamentos() {
             Capacitar o colaborador para a realização de ações emergenciais em caso de acidentes envolvendo adultos, crianças ou lactentes, conforme LEI 13.722.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1696,7 +1696,7 @@ export default function Tratamentos() {
             Este treinamento, tem como objetivo capacitar o aluno para identificar e socorrer vítimas de obstrução da via respiratória, casos de parada respiratória e foma de realizar a ressuscitação pulmonar.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1715,7 +1715,7 @@ export default function Tratamentos() {
             ***
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1734,7 +1734,7 @@ export default function Tratamentos() {
             ***
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1753,7 +1753,7 @@ export default function Tratamentos() {
             ***
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1781,7 +1781,7 @@ export default function Tratamentos() {
           Riscos em Desmonte de Rochas com o Uso de Explosivos. 
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1800,7 +1800,7 @@ export default function Tratamentos() {
             O curso aborda as exigências legais contida na Norma Regulamentadora n°33, assim como os processos e trabalhos envolvendo espaços confinados. Ao final deste treinamento você deverá ser capaz de executar corretamente as atividades rotineiros de forma segura e responsável.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
@@ -1819,7 +1819,7 @@ export default function Tratamentos() {
             O curso aborda as exigências legais contida na Norma Regulamentadora n°33, assim como os processos e trabalhos envolvendo espaços confinados. Ao final deste treinamento você deverá ser capaz de executar corretamente as atividades rotineiros de forma segura e responsável.
             </p>
             <p>
-            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://www.google.com"}>
+            <center><button className={styles.learnMoreButton} onClick={() => window.location.href = "https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0"}>
           Clique e saiba mais
         </button></center> 
             </p>
