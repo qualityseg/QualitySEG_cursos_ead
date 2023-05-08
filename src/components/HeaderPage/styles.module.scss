@@ -1,0 +1,41 @@
+.colunaCentralizada {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #BBBBBB;
+  border-radius: 5px;
+  margin-top: 150px;
+  padding: 15px;
+}
+
+.colunaCentralizada img {
+  margin-right: 15px;
+  justify-content: left;
+}
+
+.colunaCentralizada p {
+  font-size: 15px;
+  font-family: "IBM Plex Sans Hebrew", sans-serif;
+  justify-content: right;
+  color: #000000;
+}
+
+.barraVerde {
+  background-color: #08AC5C;
+  height: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.barraVerde p {
+  font-size: 15px;
+  color: #FFFFFF;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+
