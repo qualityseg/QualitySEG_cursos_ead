@@ -23,7 +23,7 @@ export default function Tratamentos() {
         />
         <meta
           name="keywords"
-          content=""
+          content="Quality Seg é uma empresa especializada em Engenharia de Segurança e Medicina do trabalho"
         />
         <meta name="author" content=" Eletro Santa Clara" />
       </Head>
