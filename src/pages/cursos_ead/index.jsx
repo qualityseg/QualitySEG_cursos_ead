@@ -49,7 +49,7 @@ export default function Tratamentos() {
         <ul className={`${styles.imagesContainer} mainContainer`}>
           <li data-aos="zoom-in-up">
             <Image
-              src="/images/produto1.png"
+              src="/images/nr32.png"
               alt="Produtos em Destaque"
               width={460}
               height={390}
