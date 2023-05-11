@@ -8,6 +8,7 @@ import { Title } from "../../components/Title";
 import Aos from "aos";
 import "aos/dist/aos.css";
 import styles from "./styles.module.scss";
+import CursosEad from "../../components/SearchBar";
 
 
 export default function Tratamentos() {
@@ -33,15 +34,7 @@ export default function Tratamentos() {
         <HeaderPage src="/images/cursosead.png" text="Produtos Certificados." /> 
       </div>
 
-    
-
-      <main className={`${styles.treatments} mainContainer`}>
-        
-        
-
-
-
-      </main>
+      <CursosEad/>
 
       <section className={styles.images}>
         <Title title="QualitySEG Cursos EAD" subtitle="Qualidade é Nosso Destaque" />

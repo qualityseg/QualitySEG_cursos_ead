@@ -1,44 +1,64 @@
-import React, { useState } from "react";
-import cursosData from "./cursos.json";
-import "./seu-arquivo-de-estilo.scss";
+import { useState } from 'react';
+import cursosData from './cursos.json';
+import styles from './CursosEad.module.scss';
 
-const CursosEAD = () => {
-  const [searchTerm, setSearchTerm] = useState("");
+const CursosEad = () => {
+  const [searchTerm, setSearchTerm] = useState('');
   const [searchResults, setSearchResults] = useState([]);
 
   const handleSearch = (e) => {
-    setSearchTerm(e.target.value);
+    const searchTerm = e.target.value;
+    setSearchTerm(searchTerm);
 
-    const results = cursosData.filter((curso) =>
-      curso.titulo.toLowerCase().includes(e.target.value.toLowerCase())
+    const filteredResults = cursosData.filter((curso) =>
+      curso.titulo.toLowerCase().includes(searchTerm.toLowerCase())
     );
-
-    setSearchResults(results);
+    setSearchResults(filteredResults);
   };
 
   return (
     <div>
-      <div className="search-bar">
-        <input
-          type="text"
-          placeholder="Pesquisar cursos..."
-          value={searchTerm}
-          onChange={handleSearch}
-        />
-        <div className="search-results">
-          {searchResults.map((curso) => (
-            <div key={curso.id}>{curso.titulo}</div>
-          ))}
+      <div className={styles.searchContainer}>
+        <div className={styles['search-bar']}>
+          <input
+            type="text"
+            placeholder="Pesquisar"
+            value={searchTerm}
+            onChange={handleSearch}
+          />
         </div>
       </div>
-
-      <div className="treatments">
+      <div className={`${styles.treatments} ${styles.center}`}>
         {searchResults.map((curso) => (
-          <div key={curso.id} className="treatmentsItem">
+          <div
+            className={styles.treatmentsItem}
+            data-aos="fade-up"
+            key={curso.id}
+          >
+            <div className={styles.image}>
+              <img
+                src={curso.imageSrc}
+                alt={curso.titulo}
+                className={styles.imageContent}
+              />
+            </div>
             <h3>{curso.titulo}</h3>
-            <p>{curso.descricao}</p>
-            <p>{curso.duracao}</p>
-            {/* Adicione mais informações do curso conforme necessário */}
+            <div className={styles.description}>
+              <p>{curso.descricao}</p>
+              <p>Carga Horaria: {curso.carga_horaria}</p>
+              <p>Valor: {curso.valor}</p>
+              <center>
+                <button
+                  className={styles.learnMoreButton}
+                  onClick={() =>
+                    (window.location.href =
+                      'https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0')
+                  }
+                >
+                  Clique e saiba mais
+                </button>
+              </center>
+            </div>
           </div>
         ))}
       </div>
@@ -46,4 +66,4 @@ const CursosEAD = () => {
   );
 };
 
-export default CursosEAD;
+export default CursosEad;
