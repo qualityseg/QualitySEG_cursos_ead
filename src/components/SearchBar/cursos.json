@@ -1,0 +1,707 @@
+[
+    {
+      "id": 1,
+      "titulo": "5S - Ferramentas da Qualidade - Contínuo",
+      "descricao": "O curso aborda como garantir uma gestão de qualidade por meio da metodologia 5S. Um método rápido, econômico, eficaz e mundialmente utilizado em organizações. Neste curso, o aluno será capacitado a aplicar a metodologia dentro da empresa onde atua e no dia a dia da sua vida.",
+      "carga_horaria": "2h",
+      "valor": "R$ 109,90",
+      "imageSrc": "/images/5s.webp"
+    },
+    {
+      "id": 2,
+      "titulo": "Análise de Riscos",
+      "descricao": "Este curso tem como finalidade apresentar conceitos básicos da Análise de Riscos, assim como as metodologias existentes e as etapas de execução para sua aplicação.",
+      "carga_horaria": "12h",
+      "valor": "R$ 119,90",
+      "imageSrc": "/images/analise-de-risco.webp"
+    },
+    {
+      "id": 3,
+      "titulo": "Atendimento Pré Hospitalar (Primeiros Socorros) Básico",
+      "descricao": "Capacitar o aluno na realização de ações emergenciais em caso de acidentes industriais ou domésticos. Embora o conteúdo do curso esteja aberto a todos os interessados em ingressar nesta área, alunos com experiência anterior em áreas afins terão melhor aproveitamento devido à sua realidade profissional.",
+      "carga_horaria": "9h",
+      "valor": "R$ 129,90",
+      "imageSrc": "/images/APH-B.webp"
+    },
+    {
+      "id": 4,
+      "titulo": "Atendimento Pré Hospitalar (Primeiros Socorros) Intermediário",
+      "descricao": "Capacitar o aluno na realização de ações emergenciais em caso de acidentes industriais ou domésticos. Embora o conteúdo do curso esteja aberto a todos os interessados em ingressar nesta área, alunos com experiência anterior em áreas afins terão melhor aproveitamento devido à sua realidade profissional.",
+      "carga_horaria": "18h",
+      "valor": "R$ 189,90",
+      "imageSrc": "/images/APH-I.webp"
+    },
+    {
+      "id": 5,
+      "titulo": "Avaliação Geral de Cena",
+      "descricao": "Este curso tem como objetivos torná-lo apto a realizar a avaliação geral do paciente; diferenciar Avaliação Dirigida para trauma de Avaliação dirigida para emergência médica; aferir sinais vitais.",
+      "carga_horaria": "1h",
+      "valor": "R$ 109,90",
+      "imageSrc": "/images/AVALIACAO-GERAL-CENA.webp"
+    },
+    {
+      "id": 6,
+      "titulo": "Direção Defensiva para Motoristas de Caminhão",
+      "descricao": "Este curso têm como objetivo capacitar os motoristas profissionais para a condução de veículos de forma preventiva, evitar comportamentos inadequado durante a condução e evitar acidentes de trânsito.",
+      "carga_horaria": "4h",
+      "valor": "R$ 159,90",
+      "imageSrc": "/images/Direcao-def.webp"
+    },
+    {
+      "id": 7,
+      "titulo": "Direção Preventiva para Frotistas",
+      "descricao": "Este curso têm como objetivo capacitar os motoristas profissionais para a condução de veículos de forma preventiva, evitar comportamentos inadequado durante a condução e evitar acidentes de trânsito.",
+      "carga_horaria": "4h",
+      "valor": "R$ 159,90",
+      "imageSrc": "/images/34.jpg"
+    },
+    {
+      "id": 8,
+      "titulo": "Formação Brigada de Incêndios (Avançado) - Conforme NBR14276",
+      "descricao": "O curso de Formação de Brigada de Incêndios Avançado é indicado às indústrias que desejam preparar seus colaboradores para atuarem em suas brigadas internas e equipes de CIPA.O curso aborda conteúdos relevantes para sua equipe fazer a diferença preservando vidas.",
+      "carga_horaria": "--h",
+      "valor": "R$ --",
+      "imageSrc": "/images/prod_1.webp"
+    },
+    {
+      "id": 9,
+      "titulo": "Formação Brigada de Incêndios (Avançado) (Reciclagem) - Conforme NBR14276",
+      "descricao": "O curso de Formação de Brigada de Incêndios Avançado Reciclagem é indicado às indústrias que desejam preparar seus colaboradores para atuarem em suas brigadas internas e equipes de CIPA.O curso aborda conteúdos relevantes para sua equipe fazer a diferença preservando vidas.",
+      "carga_horaria": "--H",
+      "valor": "r$ --",
+      "imageSrc": "/images/55.webp"
+    },
+    {
+      "id": 10,
+      "titulo": "Formação Brigada de Incêndios (Básico) - Conforme NBR14276",
+      "descricao": "O curso de Formação de Brigada de Incêndios Básico é indicado às indústrias que desejam preparar seus colaboradores para atuarem em suas brigadas internas e equipes de CIPA.O curso aborda conteúdos relevantes para sua equipe fazer a diferença preservando vidas.",
+      "carga_horaria": "-- h",
+      "valor": "R$ --",
+      "imageSrc": "/images/37.webp"
+    },
+    {
+      "id": 11,
+      "titulo": "Formação Brigada de Incêndios (Básico) (Reciclagem) - Conforme NBR14276",
+      "descricao": "O curso de Formação de Brigada de Incêndios é indicado às indústrias que desejam preparar seus colaboradores para atuarem em suas brigadas internas e equipes de CIPA. O curso aborda conteúdos relevantes para sua equipe fazer a diferença preservando vidas",
+      "carga_horaria": "--h",
+      "valor": "R$ --",
+      "imageSrc": "/images/49.webp"
+    },
+    {
+      "id": 12,
+      "titulo": "Formação Brigada de Incêndios (Intermediário) - Conforme NBR14276",
+      "descricao": "O curso de Formação de Brigada de Incêndios é indicado às indústrias que desejam preparar seus colaboradores para atuarem em suas brigadas internas e equipes de CIPA. O curso aborda conteúdos relevantes para sua equipe fazer a diferença preservando vidas.",
+      "carga_horaria": "--h",
+      "valor": "R$ --",
+      "imageSrc": "/images/40.webp"
+    },
+    {
+      "id": 13,
+      "titulo": "Formação Brigada de Incêndios (Intermediário) (Reciclagem) - Conforme NBR14276",
+      "descricao": "O curso de Formação de Brigada de Incêndios é indicado às indústrias que desejam preparar seus colaboradores para atuarem em suas brigadas internas e equipes de CIPA. O curso aborda conteúdos relevantes para sua equipe fazer a diferença preservando vidas.",
+      "carga_horaria": "--h",
+      "valor": "R$ --",
+      "imageSrc": "/images/43.webp"
+    },
+    {
+      "id": 14,
+      "titulo": "Formação de Brigada de Incêndio (Avançado) (Reciclagem) - Conforme IT17 de SP",
+      "descricao": "O curso é indicado às indústrias, hotéis, comércios, varejos e empresas em geral que desejam preparar seus colaboradores para atuarem em suas brigadas internas e equipes de CIPA. O curso aborda conteúdos relevantes para sua equipe fazer a diferença preservando vidas e  resguardar patrimônio.",
+      "carga_horaria": "--h",
+      "valor": "R$ --",
+      "imageSrc": "/images/746.webp"
+    },
+    {
+      "id": 15,
+      "titulo": "Formação de Brigada de Incêndio (Avançado) - Conforme IT17 de SP",
+      "descricao": "O curso é indicado às indústrias, hotéis, comércios, varejos e empresas em geral que desejam preparar seus colaboradores para atuarem em suas brigadas internas e equipes de CIPA. O curso aborda conteúdos relevantes para sua equipe fazer a diferença preservando vidas e  resguardar patrimônio.",
+      "carga_horaria": "-- h",
+      "valor": "R$ --",
+      "imageSrc": "/images/745.webp"
+    },
+    {
+      "id": 16,
+      "titulo": "Formação de Brigada de Incêndio (Básico) - Conforme IT17 de SP",
+      "descricao": "O curso é indicado às indústrias, hotéis, comércios, varejos e empresas em geral que desejam preparar seus colaboradores para atuarem em suas brigadas internas e equipes de CIPA. O curso aborda conteúdos relevantes para sua equipe fazer a diferença preservando vidas e  resguardar patrimônio.",
+      "carga_horaria": "--h",
+      "valor": "R$ --",
+      "imageSrc": "/images/744.webp"
+    },
+    {
+      "id": 17,
+      "titulo": "Formação de Brigada de Incêndio (Básico) (Reciclagem) - Conforme IT17 de SP",
+      "descricao": "O curso é indicado às indústrias, hotéis, comércios, varejos e empresas em geral que desejam preparar seus colaboradores para atuarem em suas brigadas internas e equipes de CIPA. O curso aborda conteúdos relevantes para sua equipe fazer a diferença preservando vidas e  resguardar patrimônio.",
+      "carga_horaria": "--h",
+      "valor": "R$ --",
+      "imageSrc": "/images/c6xex1rq1fldp9dyxagg.webp"
+    },
+    {
+      "id": 18,
+      "titulo": "Formação de Brigada de Incêndio (Intermediário) - Conforme IT17 de SP",
+      "descricao": "O curso é indicado às indústrias, hotéis, comércios, varejos e empresas em geral que desejam preparar seus colaboradores para atuarem em suas brigadas internas e equipes de CIPA. O curso aborda conteúdos relevantes para sua equipe fazer a diferença preservando vidas e  resguardar patrimônio.",
+      "carga_horaria": "--h",
+      "valor": "R$ --",
+      "imageSrc": "/images/361.webp"
+    },
+    {
+      "id": 19,
+      "titulo": "Formação de Brigada de Incêndio (Intermediário) (Reciclagem) - Conforme IT17 de SP",
+      "descricao": "O curso é indicado às indústrias, hotéis, comércios, varejos e empresas em geral que desejam preparar seus colaboradores para atuarem em suas brigadas internas e equipes de CIPA. O curso aborda conteúdos relevantes para sua equipe fazer a diferença preservando vidas e  resguardar patrimônio.",
+      "carga_horaria": "--h",
+      "valor": "R$ --",
+      "imageSrc": "/images/46l87bzio88otz1xuzcs.webp"
+    },
+    {
+      "id": 20,
+      "titulo": "Jogo de Percepção de Riscos",
+      "descricao": "...",
+      "carga_horaria": "1h",
+      "valor": "R$*a consultar*",
+      "imageSrc": "/images/3mfc0gqhqrqxtosivugc.webp"
+    },
+    {
+      "id": 21,
+      "titulo": "Lei Geral de Proteção de Dados - LGPD",
+      "descricao": "O conceito geral da LGPD e a importância de existir uma Lei para proteção de dados, para as pessoas e organizações; O conceito de dados pessoais; Definir agentes e papéis na LGPD; Exercer boas práticas no tratamento e governança de dados pessoais; Cumprir as exigências legais da LGPD. ",
+      "carga_horaria": "2h",
+      "valor": "R$ 109,90",
+      "imageSrc": "/images/w0icckj3tdj94n66dicc.webp"
+    },
+    {
+      "id": 22,
+      "titulo": "LOTO - Guia Prático",
+      "descricao": "Este treinamento tem como objetivo capacitar os colaboradores para identificar e utilizar dispositivos de bloqueio para energias perigosas garantindo a manutenção segura e eficiente de equipamentos.",
+      "carga_horaria": "10h",
+      "valor": "R$ 129,90",
+      "imageSrc": "/images/uf01aup566tkx3wklfisdl74.webp"
+    },
+    {
+      "id": 23,
+      "titulo": "Noções Básicas de Anatomia",
+      "descricao": "Este curso tem como objetivos: identificar e localizar os órgãos no corpo humano; conhecer os sistemas corporais; reportar lesões utilizando linguagem correta.",
+      "carga_horaria": "1h",
+      "valor": "R$ 109,90",
+      "imageSrc": "/images/58.webp"
+    },
+    {
+      "id": 24,
+      "titulo": "O treinamento NR-10 de Segurança Elétrica é obrigatório para pessoas que trabalhem em instalações elétricas e/ou realizem serviços que envolvam eletricidade. Desenvolvido em parceria com uma sólida empresa de engenharia elétrica e automação industrial - a GreyLogix, garantimos um material completo e atualizado, além de tutores altamente qualificados e com experiência prática. Uma solução inovadora para certificação profissional com uma metodologia que facilita e potencializa o processo de aprendizagem, gerando economia de tempo e dinheiro.",
+      "descricao": "1h",
+      "carga_horaria": "R$ 209,90",
+      "valor": "",
+      "imageSrc": "/images/64.webp"
+    },
+    {
+      "id": 25,
+      "titulo": "NR1 - Disposições Gerais",
+      "descricao": "O curso aborda os aspectos gerais da NR1. Ao final deste treinamento você deverá ser capaz de identificar onde as NRs se aplicam e quem são os responsáveis pelo seu cumprimento.",
+      "carga_horaria": "1h",
+      "valor": "109,90",
+      "imageSrc": "/images/blob.webp"
+    },
+    {
+      "id": 26,
+      "titulo": "NR10 - Segurança Elétrica (Reciclagem)",
+      "descricao": "O treinamento NR-10 de Segurança Elétrica é obrigatório para pessoas que trabalhem em instalações elétricas e/ou realizem serviços que envolvam eletricidade. Desenvolvido em parceria com uma sólida empresa de engenharia elétrica e automação industrial - a GreyLogix, garantimos um material completo e atualizado, além de tutores altamente qualificados e com experiência prática. Uma solução inovadora para certificação profissional com uma metodologia que facilita e potencializa o processo de aprendizagem, gerando economia de tempo e dinheiro.",
+      "carga_horaria": "20h",
+      "valor": "189,90",
+      "imageSrc": "/images/67.webp"
+    },
+    {
+      "id": 27,
+      "titulo": "NR10 - SEP (Sistema Elétrico de Potência)",
+      "descricao": "Desenvolvido em parceria com uma sólida empresa de engenharia elétrica e automação industrial - a GreyLogix, garantimos um material completo e atualizado, além de tutores altamente qualificados e com experiência prática. Uma solução inovadora para certificação profissional com uma metodologia que facilita e potencializa o processo de aprendizagem, gerando economia de tempo e dinheiro.",
+      "carga_horaria": "20h",
+      "valor": "R$ 199,90",
+      "imageSrc": "/images/172.webp"
+    },
+    {
+      "id": 28,
+      "titulo": "NR10 - SEP - Reciclagem (Sistema Elétrico de Potência)",
+      "descricao": "Desenvolvido em parceria com uma sólida empresa de engenharia elétrica e automação industrial - a GreyLogix, garantimos um material completo e atualizado, além de tutores altamente qualificados e com experiência prática. Uma solução inovadora para certificação profissional com uma metodologia que facilita e potencializa o processo de aprendizagem, gerando economia de tempo e dinheiro.",
+      "carga_horaria": "40h",
+      "valor": "R$ 219,90",
+      "imageSrc": "/images/70.webp"
+    },
+    {
+      "id": 29,
+      "titulo": "NR11 - Transporte Movimentação Armazenagem e Manuseio de Materiais",
+      "descricao": "Este treinamento tem como finalidade apresentar conceitos básicos de segurança nos processos envolvendo levantamento, transporte e descargas de forma manual ou com uso de máquinas/equipamentos e conscientizar os trabalhadores sobre os riscos existentes na operação, assim como a importância e necessidade de atender às normas técnicas de segurança.",
+      "carga_horaria": "8h",
+      "valor": "R$ 119,90",
+      "imageSrc": "/images/jrq0ejzt8dh57huf0cgk.webp"
+    },
+    {
+      "id": 30,
+      "titulo": "NR11 - Transporte Movimentação Armazenagem e Manuseio de Materiais (Reciclagem)",
+      "descricao": "Este treinamento tem como finalidade apresentar conceitos básicos de segurança nos processos envolvendo levantamento, transporte e descargas de forma manual ou com uso de máquinas/equipamentos e conscientizar os trabalhadores sobre os riscos existentes na operação, assim como a importância e necessidade de atender às normas técnicas de segurança.",
+      "carga_horaria": "4h",
+      "valor": "109,90",
+      "imageSrc": "/images/zxfp3r9jg3dg33qifp9t.webp"
+    },
+    {
+      "id": 31,
+      "titulo": "NR12 - Segurança no Trabalho em Máquinas e Equipamentos (Geral)",
+      "descricao": "Este treinamento tem como finalidade apresentar conceitos básicos de segurança de máquinas e conscientizar os trabalhadores sobre os riscos existentes na operação e manuseio dos equipamentos, assim como a importância e necessidade de atender às normas técnicas de segurança.",
+      "carga_horaria": "8h",
+      "valor": "R$ 119,90",
+      "imageSrc": "/images/76.webp"
+    },
+    {
+      "id": 32,
+      "titulo": "NR12 - Segurança no Trabalho em Máquinas e Equipamentos (Geral) (Reciclagem)",
+      "descricao": "Este treinamento tem como finalidade apresentar conceitos básicos de segurança de máquinas e conscientizar os trabalhadores sobre os riscos existentes na operação e manuseio dos equipamentos, assim como a importância e necessidade de atender às normas técnicas de segurança.",
+      "carga_horaria": "8h",
+      "valor": "109,90",
+      "imageSrc": "/images/79.webp"
+    },
+    {
+      "id": 33,
+      "titulo": "NR13 - Treinamento de Segurança na Operação de Caldeiras",
+      "descricao": "Este treinamento tem como objetivo capacitar e aperfeiçoar o profissional que atua na operação e controle de caldeiras, de acordo com a norma regulamentadora NR-13, visando práticas seguras de operação.",
+      "carga_horaria": "--h",
+      "valor": "R$ --",
+      "imageSrc": "/images/8mcch5btmuzevzpn7kk3so1t.webp"
+    },
+    {
+      "id": 34,
+      "titulo": "NR13 - Treinamento de Segurança na Operação de Caldeiras (Reciclagem)",
+      "descricao": "Este treinamento tem como objetivo capacitar e aperfeiçoar o profissional que atua na operação e controle de caldeiras, de acordo com a norma regulamentadora NR-13, visando práticas seguras de operação.",
+      "carga_horaria": "--h",
+      "valor": "R$ --",
+      "imageSrc": "/images/88.web"
+    },
+    {
+      "id": 35,
+      "titulo": "NR13 - Treinamento de Segurança na Operação de Unidades de Processo (Vasos de Pressão)",
+      "descricao": "Este treinamento tem como objetivo capacitar os profissionais que irão operar as unidades de processo, que possuam vasos de pressão de categorias I ou II, visando desta forma a segurança e a saúde dos trabalhadores.Lembrando que os vasos de pressão só podem ser operados por profissionais que possuem Treinamento de Segurança na Operação de Unidades de Processo (Vasos de Pressão)",
+      "carga_horaria": "--h",
+      "valor": "R$ --",
+      "imageSrc": "/images/4c2d1729m2u7pwzms86bo9m5.webp"
+    },
+    {
+      "id": 36,
+      "titulo": "NR13 - Treinamento de Segurança na Operação de Unidades de Processo (Vasos de Pressão) (Reciclagem)",
+      "descricao": "Este treinamento tem como objetivo capacitar os profissionais que irão operar as unidades de processo, que possuam vasos de pressão de categorias I ou II, visando desta forma a segurança e a saúde dos trabalhadores.Lembrando que os vasos de pressão só podem ser operados por profissionais que possuem Treinamento de Segurança na Operação de Unidades de Processos.",
+      "carga_horaria": "--h",
+      "valor": "R$ --",
+      "imageSrc": "/images/91.webp"
+    },
+    {
+      "id": 37,
+      "titulo": "NR17 - Ergonomia",
+      "descricao": "Ao final deste treinamento você será capaz de: Explicar o que é Ergonomia e suas áreas de aplicação; Verificar se um posto de trabalho oferece condições ergonômicas adequadas;Ajustar mobiliários, equipamentos e ferramentas para preservar sua saúde; Promover discussões sobre o tema: Ergonomia.",
+      "carga_horaria": "2h",
+      "valor": "R$ 109,90",
+      "imageSrc": "/images/lmhw81i28iiy3qrkk8bc.webp"
+    },
+    {
+      "id": 38,
+      "titulo": "NR17 - Ergonomia para Operadores de Checkout",
+      "descricao": "Ao final deste treinamento você será capaz de: Explicar o que é Ergonomia e suas áreas de aplicação; Verificar se um posto de trabalho oferece condições ergonômicas adequadas; Ajustar mobiliários, equipamentos e ferramentas para preservar sua saúde; Promover discussões sobre o tema: Ergonomia.",
+      "carga_horaria": "2h",
+      "valor": "109,90",
+      "imageSrc": "/images/ghkcc1or520d5d37i8y3.webp"
+    },
+    {
+      "id": 39,
+      "titulo": "NR17 - Levantamento e Transporte Manual de Cargas",
+      "descricao": "Após este treinamento o aluno estará apto a: Explicar o que é Ergonomia; Definir as condições ideais para levantamento e transporte manual de carga; Identificar limites para o levantamento e transporte manual de carga;Promover discussões sobre o tema: Ergonomia.",
+      "carga_horaria": "--h",
+      "valor": "R$ --",
+      "imageSrc": "/images/0dcxxnpan2bylox6e4gv.webp"
+    },
+    {
+      "id": 40,
+      "titulo": "NR17 - Teleatendimento",
+      "descricao": "Após este treinamento o aluno estará apto a: Verificar se um posto de trabalho oferece condições ergonômicas adequadas ao teleatendimento;",
+      "carga_horaria": "--h",
+      "valor": "R$ --",
+      "imageSrc": "/images/211.webp"
+    },
+    {
+      "id": 41,
+      "titulo": "NR18 - Segurança e Saúde No Trabalho Na Indústria Da Construção (Básico em Segurança do Trabalho)",
+      "descricao": "Unidade 1: Para a capacitação básica em segurança do trabalho: I. as condições e meio ambiente de trabalho; II. os riscos inerentes às atividades desenvolvidas; III. os equipamentos e proteção coletiva existentes no canteiro de obras; IV. o uso adequado dos equipamentos de proteção individual; V. o PGR do canteiro de obras.",
+      "carga_horaria": "4h",
+      "valor": "R$ 129,90",
+      "imageSrc": "/images/1xw12gxzpef1dkn6jd1v36dc.webp"
+    },
+    {
+      "id": 42,
+      "titulo": "NR20 Avançado I",
+      "descricao": "O curso aborda as exigências legais contida na Norma Regulamentadora n°20 os processos envolendo inflamáveis e combustíveis. Ao final deste treinamento você deverá ser capaz de executar corretamente os processos rotineiros de forma segura e responsável. O curso pode ser realizado no formato EAD, Semipresencial ou à Distância. Dispõe de uma unidade de ensino totalmente interativa, desenvolvida em computação gráfica e com conteúdo acessível para todos os níveis profissionais. Possui exercícios, fórum e prova de suficiência para emissão de certificado. O aluno conta com apoio e orientação de um tutor-especialista durante todo o curso.",
+      "carga_horaria": "20h",
+      "valor": "239,90",
+      "imageSrc": "/images/bdwjp05jthjq7h7if4qz.webp"
+    },
+    {
+      "id": 43,
+      "titulo": "NR20 Avançado I (Reciclagem)",
+      "descricao": "O curso aborda as exigências legais contida na Norma Regulamentadora n°20 os processos envolendo inflamáveis e combustíveis. Ao final deste treinamento você deverá ser capaz de executar corretamente os processos rotineiros de forma segura e responsável.",
+      "carga_horaria": "4h",
+      "valor": "R$ 169,90",
+      "imageSrc": "/images/u5qss91cty3vl3d9dx2b.webp"
+    },
+    {
+      "id": 44,
+      "titulo": "NR20 - Segurança na Exposição Ocupacional ao Benzeno",
+      "descricao": "O objetivo do treinamento é instruir sobre a norma NR-20, que protege em questões que envolvem riscos da exposição ocupacional ao benzeno em postos revendedores de combustíveis.",
+      "carga_horaria": "--h",
+      "valor": "R$ --",
+      "imageSrc": "/images/wr11fcqpxv7snvipkx5ntvfk.webp"
+    },
+    {
+      "id": 45,
+      "titulo": "NR20 Avançado II",
+      "descricao": "O curso aborda as exigências legais contida na Norma Regulamentadora n°20 os processos envolendo inflamáveis e combustíveis. Ao final deste treinamento você deverá ser capaz de executar corretamente os processos rotineiros de forma segura e responsável.",
+      "carga_horaria": "32h",
+      "valor": "R$ 249,90",
+      "imageSrc": "/images/fp6zonvvktcu16184fw7.webp"
+    },
+    {
+      "id": 46,
+      "titulo": "NR20 Avançado II (Reciclagem)",
+      "descricao": "O curso aborda as exigências legais contida na Norma Regulamentadora n°20 os processos envolendo inflamáveis e combustíveis. Ao final deste treinamento você deverá ser capaz de executar corretamente os processos rotineiros de forma segura e responsável.",
+      "carga_horaria": "4h",
+      "valor": "R$ 179,90",
+      "imageSrc": "/images/vq12p1o4vxwkxytwyr29.webp"
+    },
+    {
+      "id": 47,
+      "titulo": "NR20 Básico (Reciclagem)",
+      "descricao": "O curso aborda as exigências legais contida na Norma Regulamentadora n°20 os processos envolvendo inflamáveis e combustíveis. Ao final deste treinamento você deverá ser capaz de executar corretamente os processos rotineiros de forma segura e responsável.",
+      "carga_horaria": "4h",
+      "valor": "R$ 109,90",
+      "imageSrc": "/images/5lfeyyglfjwhoyghmkbm1.webp"
+    },
+    {
+      "id": 48,
+      "titulo": "NR20 Básico Classe I",
+      "descricao": " O curso aborda as exigências legais contida na Norma Regulamentadora n°20 os processos envolvendo inflamáveis e combustíveis. Ao final deste treinamento você deverá ser capaz de executar corretamente os processos rotineiros de forma segura e responsável.",
+      "carga_horaria": "4h",
+      "valor": "R$ 129,90",
+      "imageSrc": "/images/j4kz1vin8r20b2c42gz2.webp"
+    },
+    {
+      "id": 49,
+      "titulo": "NR20 Básico Classe II",
+      "descricao": "O curso aborda as exigências legais contida na Norma Regulamentadora n°20 os processos envolvendo inflamáveis e combustíveis. Ao final deste treinamento você deverá ser capaz de executar corretamente os processos rotineiros de forma segura e responsável.",
+      "carga_horaria": "6h",
+      "valor": "R$ 129,90",
+      "imageSrc": "/images/vphfjhu60ltra2ethqjp.webp"
+    },
+    {
+      "id": 50,
+      "titulo": "NR20 Básico Classe III",
+      "descricao": "O curso aborda as exigências legais contida na Norma Regulamentadora n°20 os processos envolvendo inflamáveis e combustíveis. Ao final deste treinamento você deverá ser capaz de executar corretamente os processos rotineiros de forma segura e responsável.",
+      "carga_horaria": "8h",
+      "valor": "R$ 129,90",
+      "imageSrc": "/images/exk96i1kklxok1mop085.webp"
+    },
+    {
+      "id": 51,
+      "titulo": "NR20 Inflamáveis e Combustíveis Nível Específico Classe II",
+      "descricao": "O Curso da NR20 Inflamáveis e Combustíveis Nível Específico Classe II, visa capacitar os trabalhadores da área de saúde e segurança que atuam nas instalações classe II. O aluno terá conhecimento sobre a norma, conhecerá metodologias de análise de risco, permissão de trabalho e receberá orientação dos procedimentos a serem seguidos em situações de emergência relacionadas à inflamáveis e combustíveis.",
+      "carga_horaria": "4h",
+      "valor": "R$ 149,90",
+      "imageSrc": "/images/bhctob0tf77oka193hav.webp"
+    },
+    {
+      "id": 52,
+      "titulo": "NR20 Inflamáveis e Combustíveis Nível Específico Classe III",
+      "descricao": "O aluno terá conhecimento sobre a norma, conhecerá metodologias de análise de risco, permissão de trabalho e receberá orientação dos procedimentos a serem seguidos em emergências relacionadas à inflamáveis e combustíveis.",
+      "carga_horaria": "16h",
+      "valor": "R$ 189,90",
+      "imageSrc": "/images/g7mkkcplljqboihjcyyg.webp"
+    },
+    {
+      "id": 53,
+      "titulo": "NR20 Iniciação sobre Inflamáveis e Combustíveis",
+      "descricao": "O curso aborda as exigências legais contida na Norma Regulamentadora n°20 os processos envolendo inflamáveis e combustíveis. Ao final deste treinamento você deverá ser capaz de executar corretamente os processos rotineiros de forma segura e responsável.",
+      "carga_horaria": "4h",
+      "valor": "R$ 129,90",
+      "imageSrc": "/images/115.webp"
+    },
+    {
+      "id": 54,
+      "titulo": "NR20 Iniciação sobre Inflamáveis e Combustíveis (Reciclagem)",
+      "descricao": "O curso aborda as exigências legais contida na Norma Regulamentadora n°20 os processos envolendo inflamáveis e combustíveis. Ao final deste treinamento você deverá ser capaz de executar corretamente os processos rotineiros de forma segura e responsável.",
+      "carga_horaria": "--h",
+      "valor": "R$ --",
+      "imageSrc": "/images/118.webp"
+    },
+    {
+      "id": 55,
+      "titulo": "NR20 Intermediário (Reciclagem)",
+      "descricao": "O curso aborda as exigências legais contida na Norma Regulamentadora n°20 os processos envolendo inflamáveis e combustíveis. Ao final deste treinamento você deverá ser capaz de executar corretamente os processos rotineiros de forma segura e responsável.",
+      "carga_horaria": "4h",
+      "valor": "R$ 149,90",
+      "imageSrc": "/images/sqvzvmsd26oso7bv6jrq.webp"
+    },
+    {
+      "id": 56,
+      "titulo": "NR20 Intermediário Classe I",
+      "descricao": "O curso aborda as exigências legais contida na Norma Regulamentadora n°20 os processos envolvendo inflamáveis e combustíveis. Ao final deste treinamento você deverá ser capaz de executar corretamente os processos rotineiros de forma segura e responsável.",
+      "carga_horaria": "12h",
+      "valor": "R$ 219,90",
+      "imageSrc": "/images/lnch7nznwse0totwgzpp.webp"
+    },
+    {
+      "id": 57,
+      "titulo": "NR20 Intermediário Classe II",
+      "descricao": "O curso aborda as exigências legais contida na Norma Regulamentadora n°20 os processos envolvendo inflamáveis e combustíveis. Ao final deste treinamento você deverá ser capaz de executar corretamente os processos rotineiros de forma segura e responsável.",
+      "carga_horaria": "14h",
+      "valor": "R$ 219,90",
+      "imageSrc": "/images/l7lslhjn00ou214ufjbm.webp"
+    },
+    {
+      "id": 58,
+      "titulo": "NR20 Intermediário Classe III",
+      "descricao": "O curso aborda as exigências legais contida na Norma Regulamentadora n°20 os processos envolvendo inflamáveis e combustíveis. Ao final deste treinamento você deverá ser capaz de executar corretamente os processos rotineiros de forma segura e responsável.",
+      "carga_horaria": "16h",
+      "valor": "R$ 219,90",
+      "imageSrc": "/images/z8fnyg6e1mkyehnqic86.webp"
+    },
+    {
+      "id": 59,
+      "titulo": "NR22 - CIPAMIN - Comissão Interna de Prevenção de Acidentes de Trabalho na Mineração",
+      "descricao": "Capacitar os profissionais de diferentes especialidades para realizarem atividades de trabalho em áreas de mineração, conscientizando-os sobre os riscos inerentes a estes locais para que respeitem as boas práticas relacionadas a saúde e segurança dos trabalhadores.",
+      "carga_horaria": "24h",
+      "valor": "R$ 189,90",
+      "imageSrc": "/images/wczwmf6qj20qdk6n8hn96p7d.webp"
+    },
+    {
+      "id": 60,
+      "titulo": "NR26 - Sinalização de Segurança",
+      "descricao": "O objetivo geral deste curso é reconhecer o conteúdo teórico da Norma Regulamentadora 26, que aborda a Rotulagem de Produtos Químicos e as Sinalizações de Segurança, e compreender como aplicar tais conhecimentos em seu ambiente profissional, de maneira a identificar situações de risco e perigo, prevenir acidentes e saber agir em situações de emergência.",
+      "carga_horaria": "4h",
+      "valor": "R$ 129,90",
+      "imageSrc": "/images/5bkuvt7w3top5lemje6y2d6x.webp"
+    },
+    {
+      "id": 61,
+      "titulo": "NR32 - Segurança e Saúde no Trabalho em Serviços de Saúde",
+      "descricao": "Capacitar e orientar empresários e profissionais que atuam na área de saúde sobre os riscos aos quais são expostos na realização das suas tarefas, para que possam trabalhar em segurança e adotar medidas de prevenção reduzindo o risco de acidentes e adoecimento aos profissionais que atuam na área da saúde.",
+      "carga_horaria": "8h",
+      "valor": "R$ 129,90",
+      "imageSrc": "/images/0k7dm4e7vocloly07l6v867g.webp"
+    },
+    {
+      "id": 62,
+      "titulo": "NR31 - CIPA Trabalho Rural",
+      "descricao": "O curso CIPATR aborda os requisitos de treinamentos previstos na norma regulamentadora NR5 e NR31, provendo conhecimentos pertinentes a atuação da comissão e sua organização; além de abordar boas práticas para a prevenção de acidentes; recomendações para desenvolver e manter ambientes saudáveis e seguros; boas práticas de saúde ocupacional e medidas para atuar em casos emergências.",
+      "carga_horaria": "20h",
+      "valor": "R$ 169,90",
+      "imageSrc": "/images/5z1u6hr25wtlyvfubxhp.webp"
+    },
+    {
+      "id": 63,
+      "titulo": "NR33 Supervisor",
+      "descricao": "O curso aborda as exigências legais contida na Norma Regulamentadora n°33, assim como capacitar os profissionais da área a prevenção de acidentes, procedimentos e medidas de proteção em espaços confinados, de acordo com a NBR 14787, que estabelece os requisitos mínimos para proteção dos trabalhadores e do local de trabalho, bem como os riscos de entrada em espaços confinados.",
+      "carga_horaria": "40h",
+      "valor": "R$ 229,90",
+      "imageSrc": "/images/upptf1u2zybj1jh5hbm0.webp"
+    },
+    {
+      "id": 64,
+      "titulo": "NR33 Supervisor (Reciclagem)",
+      "descricao": "O curso aborda as exigências legais contida na Norma Regulamentadora n°33, assim como capacitar os profissionais da área a prevenção de acidentes, procedimentos e medidas de proteção em espaços confinados, de acordo com a NBR 14787, que estabelece os requisitos mínimos para proteção dos trabalhadores e do local de trabalho, bem como os riscos de entrada em espaços confinados.",
+      "carga_horaria": "8h",
+      "valor": "R$ 159,90",
+      "imageSrc": "/images/vieyqvs5e07jzm5h5djp.webp"
+    },
+    {
+      "id": 65,
+      "titulo": "NR33 Trabalhador e Vigia",
+      "descricao": "O curso aborda as exigências legais contida na Norma Regulamentadora n°33, assim como os processos e trabalhos envolvendo espaços confinados. Ao final deste treinamento você deverá ser capaz de executar corretamente as atividades rotineiros de forma segura e responsável.",
+      "carga_horaria": "16h",
+      "valor": "R$ 189,90",
+      "imageSrc": "/images/3is1iwr0d4e1jrj4m109.webp"
+    },
+    {
+      "id": 66,
+      "titulo": "NR33 Trabalhador e Vigia (Reciclagem)",
+      "descricao": "O curso aborda as exigências legais contida na Norma Regulamentadora n°33, assim como os processos e trabalhos envolvendo espaços confinados. Ao final deste treinamento você deverá ser capaz de executar corretamente as atividades rotineiros de forma segura e responsável.",
+      "carga_horaria": "8h",
+      "valor": "R$ 119,90",
+      "imageSrc": "/images/v0qzxbqokwtr6rinw97q.webp"
+    },
+    {
+      "id": 67,
+      "titulo": "NR34 - Trabalho a Quente",
+      "descricao": "Capacitar os trabalhadores no curso básico de segurança para trabalhos a quente para o cumprimento da Norma Regulamentadora nº 34",
+      "carga_horaria": "8h",
+      "valor": "R$ 169,90",
+      "imageSrc": "/images/qrl3tkitcpg2zrrdq63zbb3v.webp"
+    },
+    {
+      "id": 68,
+      "titulo": "NR35 - Trabalho em Altura",
+      "descricao": "Um curso que aborda as principais especificações relacionadas ao trabalho em altura. Está em conformidade a Norma Regulamentadora – NR 35 e possui certificado válido em todo Brasil – portaria 008/02 da Secretaria de Estado da Educação e do Desporto de Santa Catarina. Neste curso, o aluno será capacitado para atuar com segurança no trabalho em altura correspondente à sua função.",
+      "carga_horaria": "24h",
+      "valor": "R$ 189,90",
+      "imageSrc": "/images/6qjiv620k570lt6jrsnv.webp"
+    },
+    {
+      "id": 69,
+      "titulo": "NR35 - Trabalho em Altura - Trabalhador (Reciclagem)",
+      "descricao": "Um curso que aborda as principais especificações relacionadas ao trabalho em altura. Está em conformidade a Norma Regulamentadora – NR 35 e possui certificado válido em todo Brasil – portaria 008/02 da Secretaria de Estado da Educação e do Desporto de Santa Catarina. Neste curso, o aluno será capacitado para atuar com segurança no trabalho em altura correspondente à sua função.",
+      "carga_horaria": "8h",
+      "valor": "R$ 119,90",
+      "imageSrc": "/images/chi68cz32m8fwcakwlmk.webp"
+    },
+    {
+      "id": 70,
+      "titulo": "NR5 - CIPA - GRAU DE RISCO 1",
+      "descricao": "O curso CIPA aborda os requisitos de treinamentos previstos na norma regulamentadora NR-5, provendo conhecimentos pertinentes a atuação da comissão e sua organização; além de abordar boas práticas para a prevenção de acidentes; recomendações para desenvolver e manter ambientes saudáveis e seguros; boas práticas de saúde ocupacional e medidas para atuar em casos emergências.",
+      "carga_horaria": "8h",
+      "valor": "R$ 139,90",
+      "imageSrc": "/images/497.webp"
+    },
+    {
+      "id": 71,
+      "titulo": "NR5 - CIPA - GRAU DE RISCO 1 - Representante Nomeado - EAD",
+      "descricao": "O curso CIPA aborda os requisitos de treinamentos previstos na norma regulamentadora NR-5, provendo conhecimentos pertinentes a atuação da comissão e sua organização; além de abordar boas práticas para a prevenção de acidentes; recomendações para desenvolver e manter ambientes saudáveis e seguros; boas práticas de saúde ocupacional e medidas para atuar em casos emergências.",
+      "carga_horaria": "8h",
+      "valor": "R$ 139,90",
+      "imageSrc": "/images/bxnhk31exomplhqa8l1m.webp"
+    },
+    {
+      "id": 72,
+      "titulo": "NR5 - CIPA - GRAU DE RISCO 2",
+      "descricao": "O curso CIPA aborda os requisitos de treinamentos previstos na norma regulamentadora NR-5, provendo conhecimentos pertinentes a atuação da comissão e sua organização; além de abordar boas práticas para a prevenção de acidentes; recomendações para desenvolver e manter ambientes saudáveis e seguros; boas práticas de saúde ocupacional e medidas para atuar em casos emergências.",
+      "carga_horaria": "12h",
+      "valor": "R$ 149,90",
+      "imageSrc": "/images/503.webp"
+    },
+    {
+      "id": 73,
+      "titulo": "NR5 - CIPA - GRAU DE RISCO 2 - Representante Nomeado - EAD",
+      "descricao": "O curso CIPA aborda os requisitos de treinamentos previstos na norma regulamentadora NR-5, provendo conhecimentos pertinentes a atuação da comissão e sua organização; além de abordar boas práticas para a prevenção de acidentes; recomendações para desenvolver e manter ambientes saudáveis e seguros; boas práticas de saúde ocupacional e medidas para atuar em casos emergências.",
+      "carga_horaria": "12h",
+      "valor": "R$ 149,90",
+      "imageSrc": "/images/ulu1mpt9cytagt4xcr3a.webp"
+    },
+    {
+      "id": 74,
+      "titulo": "NR5 - CIPA - GRAU DE RISCO 3",
+      "descricao": "O curso CIPA aborda os requisitos de treinamentos previstos na norma regulamentadora NR-5, provendo conhecimentos pertinentes a atuação da comissão e sua organização; além de abordar boas práticas para a prevenção de acidentes; recomendações para desenvolver e manter ambientes saudáveis e seguros; boas práticas de saúde ocupacional e medidas para atuar em casos emergências.",
+      "carga_horaria": "16h",
+      "valor": "R$ 159,90",
+      "imageSrc": "/images/509.webp"
+    },
+    {
+      "id": 75,
+      "titulo": "NR5 - CIPA - GRAU DE RISCO 3 - Representante Nomeado - EAD",
+      "descricao": "O curso aborda as exigências legais contida na Norma Regulamentadora n°33, assim como os processos e trabalhos envolvendo espaços confinados. Ao final deste treinamento você deverá ser capaz de executar corretamente as atividades rotineiros de forma segura e responsável.",
+      "carga_horaria": "16h",
+      "valor": "R$ 159,90",
+      "imageSrc": "/images/16xeik9u3s4hyeb4oc0e.webp"
+    },
+    {
+      "id": 76,
+      "titulo": "NR5 - CIPA - GRAU DE RISCO 4",
+      "descricao": "O curso CIPA aborda os requisitos de treinamentos previstos na norma regulamentadora NR-5, provendo conhecimentos pertinentes a atuação da comissão e sua organização; além de abordar boas práticas para a prevenção de acidentes; recomendações para desenvolver e manter ambientes saudáveis e seguros; boas práticas de saúde ocupacional e medidas para atuar em casos emergências.",
+      "carga_horaria": "20h",
+      "valor": "R$ 169,90",
+      "imageSrc": "/images/509.webp"
+    },
+    {
+      "id": 77,
+      "titulo": "NR5 - CIPA - GRAU DE RISCO 4 - Representante Nomeado - EAD",
+      "descricao": "O curso CIPA aborda os requisitos de treinamentos previstos na norma regulamentadora NR-5, provendo conhecimentos pertinentes a atuação da comissão e sua organização; além de abordar boas práticas para a prevenção de acidentes; recomendações para desenvolver e manter ambientes saudáveis e seguros; boas práticas de saúde ocupacional e medidas para atuar em casos emergências.",
+      "carga_horaria": "20h",
+      "valor": "R$ 169,90",
+      "imageSrc": "/images/509.webp"
+    },
+    {
+      "id": 78,
+      "titulo": "NR6 - EPIs e EPCs (Equipamentos de Proteção Individual e Coletiva)",
+      "descricao": "É um curso sobre o uso dos Equipamentos de Proteção Individual (EPIs) em conformidade com a Norma Regulamentadora – NR 6. Certificado válido em todo Brasil – portaria 008/02 da Secretaria de Estado da Educação e do Desporto de Santa Catarina. Neste curso, o aluno será capacitado sobre a importância desses equipamentos e como utilizá-los.",
+      "carga_horaria": "2h",
+      "valor": "R$ 109,90",
+      "imageSrc": "/images/t1qb2z2gp6kquvrfd7hy.webp"
+    },
+    {
+      "id": 79,
+      "titulo": "PPR - Programa de Proteção Respiratória",
+      "descricao": "Garantir o uso correto e obter informações sobre a guarda, limpeza e higienização dos respiradores e que todo participante, durante o treinamento, tenha a oportunidade de manusear e repetir os mesmos procedimentos demonstrados pelo instrutor.",
+      "carga_horaria": "2h",
+      "valor": "R$ 109,90",
+      "imageSrc": "/images/fpnjm2j0mjarwvwjv0vk.webp"
+    },
+    {
+      "id": 80,
+      "titulo": "Prevenção e Combate à COVID-19",
+      "descricao": "O curso de Prevenção e Combate à COVID-19 tem como objetivo prevenir os trabalhadores contra a contaminação da COVID-19 dentro do ambiente profissional e apresentar as informações necessárias caso seja necessário realizar o isolamento domiciliar.",
+      "carga_horaria": "2h",
+      "valor": "R$ 109,90",
+      "imageSrc": "/images/vht0ac8glbfyua8t39yk.webp"
+    },
+    {
+      "id": 81,
+      "titulo": "Prevenção e Proteção Contra Incêndios",
+      "descricao": "O treinamento de Prevenção e Proteção Contra Incêndios (PPCI) é parte do conteúdo de Formação de Brigada de Incêndio/Emergência. O treinamento tem como objetivo a instrução teórica à prevenção e proteção contra incêndios.",
+      "carga_horaria": "6h",
+      "valor": "R$ 109,90",
+      "imageSrc": "/images/tc1agralsfnbnfenknu0.webp"
+    },
+    {
+      "id": 82,
+      "titulo": "Primeiros Socorros - Ênfase na Lei Lucas 13.722",
+      "descricao": "Capacitar o colaborador para a realização de ações emergenciais em caso de acidentes envolvendo adultos, crianças ou lactentes, conforme LEI 13.722.",
+      "carga_horaria": "--h",
+      "valor": "R$ --",
+      "imageSrc": "/images/qiop7afmtq0vr59d4bo7m2xj.webp"
+    },
+    {
+      "id": 83,
+      "titulo": "Ressuscitação Cardiopulmonar - (RCP)",
+      "descricao": "Este treinamento, tem como objetivo capacitar o aluno para identificar e socorrer vítimas de obstrução da via respiratória, casos de parada respiratória e foma de realizar a ressuscitação pulmonar.",
+      "carga_horaria": "3h",
+      "valor": "R$ 109,90",
+      "imageSrc": "/images/xrxaoye5f3iuxb8c61xw.webp"
+    },
+    {
+      "id": 84,
+      "titulo": "Simulador - Desafio dos EPIs - NR10",
+      "descricao": "***",
+      "carga_horaria": "--h",
+      "valor": "R$ --",
+      "imageSrc": "/images/tsmwr8vtdf1jm6oqcskk58xm.webp"
+    },
+    {
+      "id": 85,
+      "titulo": "Simulador - Preenchimento de APR",
+      "descricao": "***",
+      "carga_horaria": "--h",
+      "valor": "R$ --",
+      "imageSrc": "/images/qkez9u38wl6ctu8ct4jbj9uk.webp"
+    },
+    {
+      "id": 86,
+      "titulo": "Técnicas de Abandono de Área",
+      "descricao": "***",
+      "carga_horaria": "--h",
+      "valor": "R$ --",
+      "imageSrc": "/images/f7ogwc6661ben3qjszxlmzie.webp"
+    },
+    {
+      "id": 87,
+      "titulo": "Treinamento de Valas e Escavações",
+      "descricao": "Unidade 1: Objetivos; Princípio Básico de Segurança; Prioridade na Implantação de Medidas; Sistemas de Proteção; Riscos em Escavações; Riscos em Fundações Escavadas; Riscos em Fundações Cravadas e Injetadas; Riscos em Desmonte de Rochas com o Uso de Explosivos. ",
+      "carga_horaria": "2h",
+      "valor": "R$ 109,90",
+      "imageSrc": "/images/pct0omd9p3x9dbkrwj9a.webp"
+    },
+    {
+      "id": 88,
+      "titulo": "NR33 Trabalhador e Vigia",
+      "descricao": "O curso aborda as exigências legais contida na Norma Regulamentadora n°33, assim como os processos e trabalhos envolvendo espaços confinados. Ao final deste treinamento você deverá ser capaz de executar corretamente as atividades rotineiros de forma segura e responsável.",
+      "carga_horaria": "16h",
+      "valor": "R$ 189,90",
+      "imageSrc": "/images/3is1iwr0d4e1jrj4m109.webp"
+    }
+ 
+  ]
