@@ -100,7 +100,7 @@
 }
 .imagesContainer {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: var(--s24);
   margin-top: var(--s64);
   color: var(--blue-black);

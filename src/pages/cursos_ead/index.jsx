@@ -42,7 +42,7 @@ export default function Tratamentos() {
         <ul className={`${styles.imagesContainer} mainContainer`}>
           <li data-aos="zoom-in-up">
             <Image
-              src="/images/produto1.png"
+              src="/images/nr1.png"
               alt="Produtos em Destaque"
               width={460}
               height={390}
@@ -51,7 +51,7 @@ export default function Tratamentos() {
           </li>
           <li data-aos="zoom-in-up">
             <Image
-              src="/images/produto2.png"
+              src="/images/fachada.png"
               alt="Produtos em Destaque"
               width={460}
               height={390}
@@ -60,7 +60,7 @@ export default function Tratamentos() {
           </li>
           <li data-aos="zoom-in-up">
             <Image
-              src="/images/produto3.png"
+              src="/images/eadcursos.png"
               alt="Produtos em Destaque"
               width={460}
               height={390}
