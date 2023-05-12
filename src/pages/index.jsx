@@ -12,12 +12,14 @@ import * as gtag from "../lib/gtag";
 import Aos from "aos";
 import "aos/dist/aos.css";
 import styles from "../styles/Home.module.scss";
+import { useRouter } from "next/router";
+
 
 export default function Home() {
-  const [currentDepositions, setCurrentDepositions] = useState(depositions[0]);
+  const router = useRouter();
 
   useEffect(() => {
-    Aos.init({ duration: 1000 });
+    router.replace("/cursos_ead");
   }, []);
 
   function agendarConsulta() {
