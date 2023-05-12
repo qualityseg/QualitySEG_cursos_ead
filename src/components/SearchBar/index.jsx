@@ -4,16 +4,20 @@ import styles from './CursosEad.module.scss';
 
 const CursosEad = () => {
   const [searchTerm, setSearchTerm] = useState('');
-  const [searchResults, setSearchResults] = useState([]);
+  const [searchResults, setSearchResults] = useState(cursosData);
 
   const handleSearch = (e) => {
     const searchTerm = e.target.value;
     setSearchTerm(searchTerm);
 
-    const filteredResults = cursosData.filter((curso) =>
-      curso.titulo.toLowerCase().includes(searchTerm.toLowerCase())
-    );
-    setSearchResults(filteredResults);
+    if (searchTerm) {
+      const filteredResults = cursosData.filter((curso) =>
+        curso.titulo.toLowerCase().includes(searchTerm.toLowerCase())
+      );
+      setSearchResults(filteredResults);
+    } else {
+      setSearchResults(cursosData);
+    }
   };
 
   return (
@@ -35,11 +39,13 @@ const CursosEad = () => {
             data-aos="fade-up"
             key={curso.id}
           >
-            <div className={styles.image}>
+            <div className={styles.images}>
               <img
                 src={curso.imageSrc}
                 alt={curso.titulo}
-                className={styles.imageContent}
+                className={styles.image}
+                width={360}
+                height={196}
               />
             </div>
             <h3>{curso.titulo}</h3>

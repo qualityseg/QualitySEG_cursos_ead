@@ -37,7 +37,7 @@
 .treatmentsContainer {
   display: flex;
   justify-content: center; /* Centraliza os resultados horizontalmente */
-  margin: 0 50px; /* Adiciona espaçamento de 50px nas laterais */
+  margin: 50px; /* Adiciona espaçamento de 50px nas laterais */
 }
 
 .treatments {
@@ -98,8 +98,8 @@
   margin-top: var(--s64);
   color: var(--blue-black);
 
-  .image {
-    background-size: contain;
+  .images {
+    background-size: 360px 196px;
     background-position: center;
   }
 }
