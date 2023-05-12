@@ -1,23 +1,30 @@
 .search-bar {
   display: flex;
   align-items: center;
-  margin-bottom: 10px;
+  width: 600px;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  padding: 5px 10px;
+  
 
   input {
-    padding: 5px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    width: 100px;
+    flex-grow: 1;
+    border: none;
+    outline: none;
+    font-size: 14px;
+    margin-left: 10px;
   }
 
-  .search-results {
-    margin-top: 10px;
-
-    div {
-      margin-bottom: 5px;
-    }
+  .search-icon {
+    width: 20px;
+    height: 20px;
+    background-image: url(/images/search.png);
+    background-size: cover;
+    cursor: pointer;
   }
 }
+
+
 
 .searchContainer {
   display: flex;

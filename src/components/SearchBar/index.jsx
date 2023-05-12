@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import React, { useState } from 'react';
 import cursosData from './cursos.json';
 import styles from './CursosEad.module.scss';
 
@@ -30,6 +30,7 @@ const CursosEad = () => {
             value={searchTerm}
             onChange={handleSearch}
           />
+          <div className={styles['search-icon']}></div>
         </div>
       </div>
       <div className={`${styles.treatments} ${styles.center}`}>

@@ -4,9 +4,11 @@
   align-items: center;
   background-color: #BBBBBB;
   border-radius: 5px;
-  margin-top: 150px;
+  margin-top: 120px;
   padding: 15px;
-box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.15);
+  box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.15);
+
+  
 }
 
 
@@ -23,7 +25,27 @@ box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.15);
   text-align: left;
   margin-bottom: 1em;
 }
+.headerImages {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
 
+.headerImage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: right;
+  transition: transform 1s;
+}
+
+.headerImage.active {
+  z-index: 1;
+}
 
 
 
@@ -34,7 +56,8 @@ box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.15);
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 50px;
+  margin-top: 15px;
+  margin-bottom: -55px;
 }
 
 .barraVerde p {
