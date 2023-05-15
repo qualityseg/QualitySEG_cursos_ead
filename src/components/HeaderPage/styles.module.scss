@@ -1,15 +1,13 @@
 .headerPage {
-  display: flex;
-  flex-direction: column;
+  background-color: lightgray; /* Adicione esta linha para definir a cor de fundo do elemento */
 }
+
 
 .headerImages {
   position: relative;
   width: 100%;
-  height: 100vh;
+  height: 50vh; /* Altere este valor para ajustar a altura das imagens de fundo */
   overflow: hidden;
-  background-position: center;
-  flex: 1;
 }
 
 .headerImage {
@@ -17,19 +15,17 @@
   top: 0;
   left: 0;
   width: 100%;
-  height: auto;
-  background-size: contain;
+  height: 100%;
+  background-size: contain ;
+  background-repeat: no-repeat;
   background-position: center;
-  background-repeat: no-repeat; /* Adicionado esta linha */
-  transition: transform 1s;
+  transition: transform 1s ease-in-out;
 }
 
-.headerImage.active {
-  z-index: 1;
+.grayBar {
+  height: 5px; /* Defina a altura da barra cinza */
+  background-color: lightgray; /* Defina a cor de fundo da barra cinza */
 }
-
-
-
 .barraVerde {
   background-color: #01A982;
   height: 50px;
@@ -38,7 +34,7 @@
   justify-content: center;
   align-items: center;
   /* Remova essas linhas */
-  /* margin-bottom: -65px; */
+  margin-bottom: 5px;
   /* margin-top: -95px; */
 }
 

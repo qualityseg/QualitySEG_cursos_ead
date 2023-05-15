@@ -1,9 +1,9 @@
 import { useState, useEffect } from 'react';
 import styles from './styles.module.scss';
-import { Autoplay } from './Autoplay';
-import { Grommet } from 'grommet';
+
 export const HeaderPage = ({ subtitle, title }) => {
   const [images, setImages] = useState([]);
+  const [currentImageIndex, setCurrentImageIndex] = useState(0);
   
   useEffect(() => {
     const imageUrls = [
@@ -13,16 +13,32 @@ export const HeaderPage = ({ subtitle, title }) => {
       'images/background-4.jpg',
     ];
     setImages(imageUrls);
+
+    const interval = setInterval(() => {
+      setCurrentImageIndex((prevIndex) => (prevIndex + 1) % imageUrls.length);
+    }, 10000);
+
+    return () => clearInterval(interval);
   }, []);
 
   return (
     <section className={styles.headerPage}>
-      <div className={styles.headerImages}>
-        <Autoplay images={images} />
-      </div>
       <div className={styles.barraVerde}>
         <p>CONHEÇA NOSSOS CURSOS EAD</p>
       </div>
+      <div className={styles.headerImages}>
+        {images.map((imageUrl, index) => (
+          <div
+            key={index}
+            className={`${styles.headerImage} ${index === currentImageIndex ? styles.active : ''}`}
+            style={{
+              backgroundImage: `url(${imageUrl})`,
+              transform: `translateX(${(index - currentImageIndex) * 100}%)`,
+            }}
+          />
+        ))}
+      </div>
+      <div className={styles.grayBar} /> {/* Adicione este elemento para criar a barra cinza abaixo da imagem de fundo */}
     </section>
   );
 };
