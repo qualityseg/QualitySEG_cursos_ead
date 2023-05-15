@@ -1,12 +1,11 @@
 .headerPage {
-  background-color: lightgray; /* Adicione esta linha para definir a cor de fundo do elemento */
+  background-color: lightgray;
 }
-
 
 .headerImages {
   position: relative;
   width: 100%;
-  height: 75vh; /* Altere este valor para ajustar a altura das imagens de fundo */
+  height: 75vh;
   overflow: hidden;
 }
 
@@ -21,11 +20,17 @@
   background-position: center;
   transition: transform 1s ease-in-out;
 }
-
-.grayBar {
-  height: 5px; /* Defina a altura da barra cinza */
-  background-color: lightgray; /* Defina a cor de fundo da barra cinza */
+@media (max-width: 600px) {
+  .headerImage {
+    background-size: cover; /* Altere o tamanho da imagem de fundo para cobrir toda a área do elemento */
+    background-position: right center; /* Altere a posição da imagem de fundo para alinhar à direita */
+  }
 }
+.grayBar {
+  height: 5px;
+  background-color: lightgray;
+}
+
 .barraVerde {
   background-color: #01A982;
   height: 50px;
@@ -33,9 +38,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  /* Remova essas linhas */
-  margin-bottom: 5px;
-  /* margin-top: -95px; */
 }
 
 .barraVerde p {
@@ -43,11 +45,4 @@
   color: #FFFFFF;
   font-weight: bold;
   text-transform: uppercase;
-  margin: 0;
-}
-@media (max-width: 600px) {
-  .headerImages {
-    height: auto;
-  }
-
 }
