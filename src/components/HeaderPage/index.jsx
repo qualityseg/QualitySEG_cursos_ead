@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import styles from './styles.module.scss';
 
+
 export const HeaderPage = ({ subtitle, title }) => {
   const [images, setImages] = useState([]);
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
