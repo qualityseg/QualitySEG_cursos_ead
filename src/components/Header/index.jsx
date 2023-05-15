@@ -83,28 +83,6 @@ export const Header = () => {
                 <a>Home</a>
               </Link>
             </li>
-            <li onClick={closeMenu}>
-              <Link href="/cursos_ead">
-                <a>produtos</a>
-              </Link>
-            </li>
-            <li onClick={closeMenu}>
-              <Link href="/empresa">
-                <a></a>
-              </Link>
-            </li>
-
-            <li onClick={closeMenu}>
-              <Link href="/vendedores">
-                <a></a>
-              </Link>
-            </li>
-          
-            <li onClick={closeMenu}>
-              <Link href="/orcamento#zbwid-1579615">
-                <a></a>
-              </Link>
-            </li>
             <li onClick={agendarConsultaMenu}>
               <Link href="https://wa.me/5514997605773">
                 <a target="_blank">Fale com um Consultor</a>
