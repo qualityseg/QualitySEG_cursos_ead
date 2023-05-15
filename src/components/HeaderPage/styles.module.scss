@@ -1,15 +1,8 @@
-
-.headerPage {
-  background-color: lightgray;
-}
-
 .headerImages {
   position: relative;
   width: 100%;
   height: 75vh;
   overflow: hidden;
-  margin-top: 5px;
-  
 }
 
 .headerImage {
@@ -22,17 +15,13 @@
   background-repeat: no-repeat;
   background-position: center;
   transition: transform 1s ease-in-out;
-  
+  border-radius: 20px;
 }
 @media (max-width: 600px) {
   .headerImage {
     background-size: cover; /* Altere o tamanho da imagem de fundo para cobrir toda a área do elemento */
     background-position: right center; /* Altere a posição da imagem de fundo para alinhar à direita */
   }
-}
-.grayBar {
-  height: 5px;
-  background-color: lightgray;
 }
 
 .barraVerde {

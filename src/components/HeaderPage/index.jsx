@@ -8,7 +8,7 @@ export const HeaderPage = ({ subtitle, title }) => {
   
   useEffect(() => {
     const imageUrls = [
-      'images/background-1.jpg',
+      'images/background-1.png',
       'images/background-2.jpg',
       'images/background-3.jpg',
       'images/background-4.jpg',
@@ -39,7 +39,6 @@ export const HeaderPage = ({ subtitle, title }) => {
           />
         ))}
       </div>
-      <div className={styles.grayBar} /> {/* Adicione este elemento para criar a barra cinza abaixo da imagem de fundo */}
     </section>
   );
 };
