@@ -4,7 +4,7 @@ import styles from './styles.module.scss';
 export const HeaderPage = ({ subtitle, title }) => {
   const [images, setImages] = useState([]);
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
-
+  
   useEffect(() => {
     const imageUrls = [
       'images/background-1.jpg',

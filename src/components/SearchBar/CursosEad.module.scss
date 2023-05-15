@@ -1,7 +1,7 @@
 .search-bar {
   display: flex;
   align-items: center;
-  width: 1000px;
+  width: 100%;
   border: 1px solid #ccc;
   border-radius: 20px;
   padding: 5px 10px;
@@ -50,9 +50,9 @@
 .treatments {
   margin: 0 auto; /* Centraliza os resultados horizontalmente */
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 40px; /* Espaçamento entre as colunas dos resultados */
-  max-width: 1200px;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 20px; /* Espaçamento entre as colunas dos resultados */
+  max-width: 1500px;
   width: 100%; /* Ocupa 100% do espaço disponível */
 
   .treatmentsItem {
@@ -115,7 +115,7 @@
   margin-top: 20px;
   border: none;
   border-radius: 10px;
-  background-color: #08AC5C;
+  background-color: #01A982;
   color: white;
   font-size: 16px;
   font-weight: bold;
@@ -147,6 +147,12 @@
 @media (max-width: 450px) {
   .imagesContainer {
     grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 600px) {
+  .search-bar {
+    width: 100px;
   }
 }
 }

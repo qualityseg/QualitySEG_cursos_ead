@@ -10,29 +10,17 @@ import "aos/dist/aos.css";
 import styles from "./styles.module.scss";
 import CursosEad from "../../components/SearchBar";
 
-
 export default function Tratamentos() {
   useEffect(() => {
     Aos.init({ duration: 1000 });
   }, []);
   return (
     <>
-      <Head>
-        <title>QualitySEG Cursos EAD</title>
-        <meta
-          name="description"
-          content="QualitySEG Cursos EAD - Treinamentos de Normas Regulativas Online"
-        />
-        <meta
-          name="keywords"
-          content="Quality Seg é uma empresa especializada em Engenharia de Segurança e Medicina do trabalho"
-        />
-        <meta name="author" content=" QualitySEG" />
-      </Head>
+   
+    <HeaderPage>
 
-      <div>
-        <HeaderPage src="/images/cursosead.png" text="Produtos Certificados." /> 
-      </div>
+      
+    </HeaderPage>
 
       <CursosEad/>
 

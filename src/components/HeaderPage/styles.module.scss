@@ -1,9 +1,15 @@
+.headerPage {
+  display: flex;
+  flex-direction: column;
+}
+
 .headerImages {
   position: relative;
   width: 100%;
   height: 100vh;
   overflow: hidden;
-  margin-top: 55px;
+  background-position: center;
+  flex: 1;
 }
 
 .headerImage {
@@ -11,9 +17,9 @@
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
+  height: auto;
   background-size: contain;
-  background-position: right;
+  background-position: center;
   background-repeat: no-repeat; /* Adicionado esta linha */
   transition: transform 1s;
 }
@@ -25,14 +31,15 @@
 
 
 .barraVerde {
-  background-color: #08AC5C;
+  background-color: #01A982;
   height: 50px;
   width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: -65px;
-  margin-top: -45px;
+  /* Remova essas linhas */
+  /* margin-bottom: -65px; */
+  /* margin-top: -95px; */
 }
 
 .barraVerde p {
@@ -42,5 +49,9 @@
   text-transform: uppercase;
   margin: 0;
 }
+@media (max-width: 600px) {
+  .headerImages {
+    height: auto;
+  }
 
-
+}
