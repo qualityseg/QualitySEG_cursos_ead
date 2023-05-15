@@ -6,7 +6,7 @@
 .headerImages {
   position: relative;
   width: 100%;
-  height: 50vh; /* Altere este valor para ajustar a altura das imagens de fundo */
+  height: 75vh; /* Altere este valor para ajustar a altura das imagens de fundo */
   overflow: hidden;
 }
 
@@ -16,7 +16,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-size: contain ;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
   transition: transform 1s ease-in-out;
