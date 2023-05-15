@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import Head from "next/head";
 import Image from "next/image";
+import { Header } from "../../components/Header";
 import { HeaderPage } from "../../components/HeaderPage";
 import { MyImage } from "../../components/MyImage";
 import { Footer } from "../../components/Footer";
@@ -17,11 +18,12 @@ export default function Tratamentos() {
   return (
     <>
    
-    <HeaderPage>
+      <Header/>
 
-      
-    </HeaderPage>
+      <HeaderPage>
 
+      </HeaderPage>
+    
       <CursosEad/>
 
       <section className={styles.images}>

@@ -1,63 +1,118 @@
-import React, { useState, useEffect } from 'react';
-import { Grommet } from 'grommet';
-import { Anchor, Button, PageHeader, Page, PageContent } from 'grommet';
-import { hpe } from 'grommet-theme-hpe';
-import styles from './styles.module.scss';
+import { useState } from "react";
+import Link from "next/link";
+import Image from "next/image";
+import { Button } from "../Button";
+import * as gtag from "../../lib/gtag";
+import styles from "./styles.module.scss";
 
 export const Header = () => {
-  const [images, setImages] = useState([]);
-  const [currentImageIndex, setCurrentImageIndex] = useState(0);
+  const [showMenu, setShowMenu] = useState(false);
 
-  useEffect(() => {
-    const imageUrls = [
-      './images/background-1.jpg',
-      './images/background-2.jpg',
-      './images/background-3.jpg',
-      './images/background-4.jpg',
-    ];
-    setImages(imageUrls);
-    const initialIndex = Math.floor(Math.random() * imageUrls.length);
-    setCurrentImageIndex(initialIndex);
-    const interval = setInterval(() => {
-      setCurrentImageIndex((prevIndex) => (prevIndex + 1) % imageUrls.length);
-    }, 10000);
-    return () => clearInterval(interval);
-  }, []);
+  function closeMenu() {
+    setShowMenu(false);
+  }
+
+  function agendarConsulta() {
+    gtag.event({
+      action: "agendar_consulta_cabeçalho",
+      category: "marcar_consulta_whatsapp_cabeçalho",
+      label: "Orçamento pelo Whatsapp",
+      value: "Marcar consulta",
+    });
+  }
+
+  function agendarConsultaMenu() {
+    setShowMenu(false);
+    gtag.event({
+      action: "agendar_consulta_cabeçalho",
+      category: "marcar_consulta_whatsapp_cabeçalho",
+      label: "Fale com nossos vendedores",
+      value: "Fale Conosco",
+    });
+  }
 
   return (
-    <Grommet theme={hpe}>
-      <Page>
-        <PageContent>
-          <div className={styles.headerImages}>
-            {images.map((imageUrl, index) => (
-              <div
-                key={index}
-                className={`${styles.headerImage} ${
-                  index === currentImageIndex ? styles.active : ''
-                }`}
-                style={{
-                  backgroundImage: `url(${imageUrl})`,
-                  transform: `translateX(${(index - currentImageIndex) * 100}%)`,
-                }}
-              >
-                <img src={imageUrl} alt="" style={{ display: 'none' }} />
-              </div>
-            ))}
-          </div>
-          <PageHeader
-            actions={<Button label="Fale com um Consultor" primary />}
-            parent={
-              <img
-                src="/images/logo.png"
-                style={{ width: '353px', height: '81px' }}
+    <>
+      <header className={styles.header}>
+        <div className="mainContainer">
+          <Link href="cursos_ead">
+            <a>
+              <Image
+                src="/icons/logo_transparente.png"
+                alt="QualitySeg Cursos EAD"
+                width="353"
+                height="86"
               />
+            </a>
+          </Link>
+
+          <button
+            className={
+              showMenu
+                ? `${styles.btnMenuMobile} ${styles.menuOpen}`
+                : styles.btnMenuMobile
             }
-            responsive
-          />
-        </PageContent>
-      </Page>
-    </Grommet>
+            onClick={() => setShowMenu(!showMenu)}
+          >
+            Menu
+            <span className={styles.iconHamburguer}></span>
+          </button>
+
+          <div className={styles.btnAgendar}>
+            <Button
+              dark
+              onClick={agendarConsulta}
+              link="https://wa.me/5514997605773"
+            >
+               <img src="/icons/whatsIcon.svg" alt="whatsapp" />
+              Fale com um Consultor
+            </Button>
+          </div>
+        </div>
+
+        <nav
+          className={
+            showMenu
+              ? `${styles.menuMobile} ${styles.active}`
+              : styles.menuMobile
+          }
+        >
+          <ul>
+            <li onClick={closeMenu}>
+              <Link href="/">
+                <a>Home</a>
+              </Link>
+            </li>
+            <li onClick={closeMenu}>
+              <Link href="/cursos_ead">
+                <a>produtos</a>
+              </Link>
+            </li>
+            <li onClick={closeMenu}>
+              <Link href="/empresa">
+                <a></a>
+              </Link>
+            </li>
+
+            <li onClick={closeMenu}>
+              <Link href="/vendedores">
+                <a></a>
+              </Link>
+            </li>
+          
+            <li onClick={closeMenu}>
+              <Link href="/orcamento#zbwid-1579615">
+                <a></a>
+              </Link>
+            </li>
+            <li onClick={agendarConsultaMenu}>
+              <Link href="https://wa.me/5514997605773">
+                <a target="_blank">Fale com um Consultor</a>
+              </Link>
+            </li>
+          </ul>
+        </nav>
+      </header>
+    </>
   );
 };
-
-export default { title: 'Layout/PageHeader/Responsive' };
