@@ -33,7 +33,9 @@ export const Header = () => {
 
   return (
     <>
+      
       <header className={styles.header}>
+      <div className={styles.blackBar}></div>
         <div className="mainContainer">
           <Link href="cursos_ead">
             <a>
@@ -64,7 +66,7 @@ export const Header = () => {
               onClick={agendarConsulta}
               link="https://wa.me/5514997605773"
             >
-               <img src="/icons/whatsIcon.svg" alt="whatsapp" />
+              <img src="/icons/whatsIcon.svg" alt="whatsapp" />
               Fale com um Consultor
             </Button>
           </div>
