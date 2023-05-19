@@ -35,7 +35,32 @@ export const Header = () => {
     <>
       
       <header className={styles.header}>
-      <div className={styles.blackBar}></div>
+      <div className={styles.blackBar}>
+        <li className={styles.social}>
+        <left>
+          <Link href="https://www.instagram.com/qualitysegconsultoria/">
+            <a target="_blank">
+              <Image
+                src="/icons/instaFooter.svg"
+                alt="Logo"
+                width="20"
+                height="20"
+              />
+            </a>
+          </Link>
+          <Link href="https://www.facebook.com/QualitySegConsultoriaa">
+            <a target="_blank">
+              <Image
+                src="/icons/faceFooter.svg"
+                alt="Logo"
+                width="20"
+                height="20"
+              />
+            </a>
+          </Link>
+        </left>
+        </li>
+      </div>
         <div className="mainContainer">
           <Link href="cursos_ead">
             <a>

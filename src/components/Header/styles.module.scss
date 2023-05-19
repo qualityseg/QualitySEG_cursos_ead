@@ -1,10 +1,15 @@
 .blackBar {
   margin-top: -10px;
   margin-bottom: 10px;
-  height: 25px;
+  height: 35px;
   background-color: #27242A;
 }
 
+.social {
+        a + a {
+          margin-left: var(--s24);
+        }
+      }
 .header {
   position: fixed;
   top: 0;
