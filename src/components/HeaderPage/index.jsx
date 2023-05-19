@@ -1,72 +1,82 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import Carousel from 'nuka-carousel';
 import styles from './styles.module.scss';
 
-const calculateNewSize = (originalWidth, originalHeight, newWidth) => {
-  const carousel = document.querySelector('.carousel');
-  const newHeight = (originalHeight / originalWidth) * carousel.offsetWidth;
-  return { width: carousel.offsetWidth, height: newHeight };
-};
-
 export const HeaderPage = ({ subtitle, title }) => {
-  const [imageSizes, setImageSizes] = useState([
-    { width: 1380, height: 533 },
-    { width: 1380, height: 533 },
-    { width: 1380, height: 533 },
-  ]);
   const [currentSlide, setCurrentSlide] = useState(0);
+  const [carouselHeight, setCarouselHeight] = useState(533);
+  const carouselRef = useRef(null);
 
   useEffect(() => {
-    const images = ['images/background-1.jpg', 'images/background-2.jpg', 'images/background-3.jpg'];
-    const newSizes = [...imageSizes];
-    const carousel = document.querySelector('.carousel');
+    const handleResize = () => {
+      const windowHeight = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight;
+      const newHeight = windowHeight >= 768 ? 533 : windowHeight * 0.6;
 
-    if (carousel) {
-      const maxWidth = Math.min(carousel.offsetWidth, 1380);
+      setCarouselHeight(newHeight);
+      setCurrentSlide(0);
+    };
 
-      images.forEach((src, index) => {
-        const img = new Image();
-        img.src = src;
-        img.onload = () => {
-          const newSize = calculateNewSize(img.width, img.height, maxWidth);
-          newSizes[index] = newSize;
-          setImageSizes(newSizes);
-        };
-      });
-    }
+    const handleLoad = () => {
+      const windowHeight = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight;
+      const newHeight = windowHeight >= 768 ? 533 : windowHeight * 0.6;
+
+      setCarouselHeight(newHeight);
+      setCurrentSlide(0);
+    };
+
+    window.addEventListener('resize', handleResize);
+    window.addEventListener('load', handleLoad);
+
+    return () => {
+      window.removeEventListener('resize', handleResize);
+      window.removeEventListener('load', handleLoad);
+    };
   }, []);
+
+  const customTransition = 'transform 1s ease-in-out';
 
   return (
     <section className={styles.headerPage}>
       <Carousel
+        ref={carouselRef}
         className={styles.carousel}
         autoplay={true}
         wrapAround={true}
         autoplayInterval={5000}
         afterSlide={(slideIndex) => setCurrentSlide(slideIndex)}
-        slideIndex={0}
+        slideIndex={currentSlide}
+        style={{ maxHeight: carouselHeight, overflow: 'hidden' }}
       >
-        <img
-          src="images/background-1.jpg"
-          style={{ width: imageSizes[0].width, height: imageSizes[0].height }}
-          className={`${currentSlide === 0 ? styles.activeSlide : ''} ${styles.firstImage}`}
+        <div className={styles.carouselImageWrapper}>
+          <img
+            srcSet="images/background-1.jpg"
+            sizes={`${carouselHeight}px`}
+            className={styles.carouselImage}
+            alt="Carousel Image 1"
           />
+        </div>
 
-        <img
-          src="images/background-2.jpg"
-          style={{ width: imageSizes[1].width, height: imageSizes[1].height }}
-          className={currentSlide === 1 ? styles.activeSlide : ''}
-        />
-        <img
-          src="images/background-3.jpg"
-          style={{ width: imageSizes[2].width, height: imageSizes[2].height }}
-          className={currentSlide === 2 ? styles.activeSlide : ''}
-        />
+        <div className={styles.carouselImageWrapper}>
+          <img
+            srcSet="images/background-2.png"
+            sizes={`${carouselHeight}px`}
+            className={styles.carouselImage}
+            alt="Carousel Image 2"
+          />
+        </div>
+
+        <div className={styles.carouselImageWrapper}>
+          <img
+            srcSet="images/background-3.jpg"
+            sizes={`${carouselHeight}px`}
+            className={styles.carouselImage}
+            alt="Carousel Image 3"
+          />
+        </div>
       </Carousel>
       <div className={styles.barraVerde}>
-        <p>CONHEÇA NOSSO CATALOGO DE CURSOS EAD</p>
+        <p>CONHEÇA NOSSO CATÁLOGO DE CURSOS EAD</p>
       </div>
     </section>
   );
 };
-// é o suus do deploy

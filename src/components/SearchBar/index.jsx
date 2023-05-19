@@ -55,15 +55,13 @@ const CursosEad = () => {
               <p>Carga Horaria: {curso.carga_horaria}</p>
               <p>Valor: {curso.valor}</p>
               <center>
-                <button
-                  className={styles.learnMoreButton}
-                  onClick={() =>
-                    (window.location.href =
-                      'https://api.whatsapp.com/send/?phone=5514997605773&text&type=phone_number&app_absent=0')
-                  }
-                >
-                  Clique e saiba mais
-                </button>
+              <button
+                className={styles.learnMoreButton}
+                onClick={() => window.open('https://forms.zohopublic.com/esocial/form/ServiceOrderForm/formperma/Q9ZdGBC2hH8LNYuxJdLQFgZ8hbLqbwu-MCLzsJ2biUY', '_blank')}
+              >
+                Clique e saiba mais
+              </button>
+
               </center>
             </div>
           </div>

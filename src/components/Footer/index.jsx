@@ -17,7 +17,7 @@ export const Footer = ({ children, link = "/" }) => {
               />
             </a>
           </Link>
-
+        
           <div>
             <h3>QualitySeg Lençóis Paulista - Matriz</h3>
             <ul>
